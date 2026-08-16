@@ -5,7 +5,7 @@
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF5F8,35:F7D9E5,70:E9A9C3,100:D77C9F&height=280&section=header&text=Amal%20Nabih&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%20%E2%80%A2%20%20Software%20Engineering%20%20%E2%80%A2%20%20Data%20%20%E2%80%A2%20%20AI&descAlignY=62&descSize=16"
     width="100%"
-    alt="Amal Nabih"
+    alt="Amal Nabih Header"
   />
 </p>
 
@@ -18,21 +18,19 @@
 
 <p align="center">
   <a href="https://github.com/amaln2002">
-    <img src="https://img.shields.io/badge/GitHub-17151A?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-17151A?style=for-the-badge&logo=github&logoColor=white" height="28"/>
   </a>
+  &nbsp;
   <a href="https://github.com/amaln2002?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-D985A9?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Projects-D985A9?style=for-the-badge&logo=github&logoColor=white" height="28"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=amaln2002&style=for-the-badge&color=DEA0B8&label=VISITORS"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=amaln2002&style=for-the-badge&color=DEA0B8&label=VISITORS" height="28"/>
 </p>
-
-<br>
 
 <p align="center">
   <sub>˚₊‧꒰ა 🌸 ໒꒱ ‧₊˚</sub>
 </p>
-
-<br>
 
 ---
 
@@ -40,12 +38,10 @@
 
 <h2 align="center">୨୧ &nbsp; hello, i'm amal &nbsp; ୨୧</h2>
 
-<br>
-
-<table align="center" width="92%">
+<table align="center" width="100%" style="border-collapse: collapse;">
 <tr>
 
-<td width="60%" valign="top">
+<td width="60%" valign="top" style="padding: 10px;">
 
 ### 🌷 A little about me
 
@@ -65,11 +61,11 @@ I'm still exploring where I want to specialize, but I'm currently growing toward
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle" style="padding: 10px;">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rounded&color=FFF0F5&height=180&section=header&text=%F0%9F%8C%B7&fontSize=82&fontColor=D985A9"
-  width="85%"
+  src="https://capsule-render.vercel.app/api?type=rounded&color=FFF0F5&height=160&section=header&text=%F0%9F%8C%B7&fontSize=70&fontColor=D985A9"
+  width="100%"
   alt="Amal"
 />
 
@@ -101,16 +97,12 @@ I'm still exploring where I want to specialize, but I'm currently growing toward
 
 <h2 align="center">✦ &nbsp; things i'm interested in &nbsp; ✦</h2>
 
-<br>
-
-<table align="center" width="92%">
+<table align="center" width="100%" style="border-collapse: collapse;">
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" align="center" valign="top" style="padding: 10px;">
 
 ### 💻 Software
-
-<br>
 
 Backend development<br>
 APIs & databases<br>
@@ -119,11 +111,9 @@ Problem solving
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="34%" align="center" valign="top" style="padding: 10px;">
 
 ### 📊 Data
-
-<br>
 
 Data analysis<br>
 Visualization<br>
@@ -132,11 +122,9 @@ Prediction
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" align="center" valign="top" style="padding: 10px;">
 
 ### 🎨 Experience
-
-<br>
 
 UI / UX<br>
 Usability<br>
@@ -158,56 +146,45 @@ Clean interfaces
   <i>technologies i've worked with throughout my journey</i>
 </p>
 
-<br>
-
-<table align="center" width="92%">
+<table align="center" width="100%" style="border-collapse: collapse;">
 <tr>
 
-<td align="center" width="50%" valign="top">
+<td align="center" width="50%" valign="top" style="padding: 15px;">
 
 ### 💻 Languages
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,dart,c&perline=3"/>
+<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,dart,c&perline=3" height="110"/>
 
 <br><br>
 
 ### 🗄️ Databases & Tools
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,figma,vscode&perline=4"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,figma,vscode&perline=4" height="110"/>
 
 </td>
 
-<td align="center" width="50%" valign="top">
+<td align="center" width="50%" valign="top" style="padding: 15px;">
 
 ### 🌐 Development
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=angular,spring,nodejs,flutter,html,css&perline=3"/>
+<img src="https://skillicons.dev/icons?i=angular,spring,nodejs,flutter,html,css&perline=3" height="110"/>
 
 <br><br>
 
 ### 🤖 Data & ML
 
-<br>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-FFF0F5?style=for-the-badge&logo=pandas&logoColor=C45F87"/>
-  <img src="https://img.shields.io/badge/NumPy-FBE7EF?style=for-the-badge&logo=numpy&logoColor=C45F87"/>
+  <img src="https://img.shields.io/badge/Pandas-FFF0F5?style=for-the-badge&logo=pandas&logoColor=C45F87" height="32"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-FBE7EF?style=for-the-badge&logo=numpy&logoColor=C45F87" height="32"/>
   <br><br>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F2DFE8?style=for-the-badge&logo=scikit-learn&logoColor=824763"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F2DFE8?style=for-the-badge&logo=scikit-learn&logoColor=824763" height="32"/>
 </p>
 
 </td>
 
 </tr>
 </table>
-
-<br>
 
 ---
 
@@ -219,14 +196,12 @@ Clean interfaces
   <i>things i've built, explored, and ideas that are still growing</i>
 </p>
 
-<br>
-
 <!-- PROJECT CARD 1 -->
 
-<table align="center" width="92%">
+<table align="center" width="100%" style="border-collapse: collapse;">
 <tr>
 
-<td width="70%" valign="top">
+<td width="70%" valign="top" style="padding: 10px;">
 
 ### 🎀 &nbsp; Todo App
 
@@ -242,9 +217,9 @@ A full-stack task management project built while learning how modern frontend an
 
 </td>
 
-<td width="30%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle" style="padding: 10px;">
 
-<img src="https://img.shields.io/badge/FULL--STACK-FFF0F5?style=for-the-badge&logo=angular&logoColor=C45F87" />
+<img src="https://img.shields.io/badge/FULL--STACK-FFF0F5?style=for-the-badge&logo=angular&logoColor=C45F87" height="28"/>
 
 <br><br>
 
@@ -255,16 +230,14 @@ A full-stack task management project built while learning how modern frontend an
 </tr>
 </table>
 
-<br>
-
 <!-- PROJECT CARD 2 -->
 
-<table align="center" width="92%">
+<table align="center" width="100%" style="border-collapse: collapse;">
 <tr>
 
-<td width="30%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle" style="padding: 10px;">
 
-<img src="https://img.shields.io/badge/IN--PROGRESS-FFF0F5?style=for-the-badge&logo=spring&logoColor=C45F87" />
+<img src="https://img.shields.io/badge/IN--PROGRESS-FFF0F5?style=for-the-badge&logo=spring&logoColor=C45F87" height="28"/>
 
 <br><br>
 
@@ -272,7 +245,7 @@ A full-stack task management project built while learning how modern frontend an
 
 </td>
 
-<td width="70%" valign="top">
+<td width="70%" valign="top" style="padding: 10px;">
 
 ### 🏥 &nbsp; Clinic Website
 
@@ -291,14 +264,12 @@ A clinic project I'm developing around appointment management and a better exper
 </tr>
 </table>
 
-<br>
-
 <!-- PROJECT CARD 3 -->
 
-<table align="center" width="92%">
+<table align="center" width="100%" style="border-collapse: collapse;">
 <tr>
 
-<td width="70%" valign="top">
+<td width="70%" valign="top" style="padding: 10px;">
 
 ### ✈️ &nbsp; Flight Delay Prediction
 
@@ -314,9 +285,9 @@ A machine-learning project exploring how historical flight data can be used for 
 
 </td>
 
-<td width="30%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle" style="padding: 10px;">
 
-<img src="https://img.shields.io/badge/DATA--SCIENCE-FFF0F5?style=for-the-badge&logo=python&logoColor=C45F87" />
+<img src="https://img.shields.io/badge/DATA--SCIENCE-FFF0F5?style=for-the-badge&logo=python&logoColor=C45F87" height="28"/>
 
 <br><br>
 
@@ -327,16 +298,14 @@ A machine-learning project exploring how historical flight data can be used for 
 </tr>
 </table>
 
-<br>
-
 <!-- PROJECT CARD 4 -->
 
-<table align="center" width="92%">
+<table align="center" width="100%" style="border-collapse: collapse;">
 <tr>
 
-<td width="30%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle" style="padding: 10px;">
 
-<img src="https://img.shields.io/badge/ALGORITHMS-FFF0F5?style=for-the-badge&logo=java&logoColor=C45F87" />
+<img src="https://img.shields.io/badge/ALGORITHMS-FFF0F5?style=for-the-badge&logo=java&logoColor=C45F87" height="28"/>
 
 <br><br>
 
@@ -344,7 +313,7 @@ A machine-learning project exploring how historical flight data can be used for 
 
 </td>
 
-<td width="70%" valign="top">
+<td width="70%" valign="top" style="padding: 10px;">
 
 ### 🎬 &nbsp; Movie Catalog
 
@@ -369,12 +338,10 @@ A data-structures project using movie information to explore searching, organiza
 
 <h2 align="center">🪄 &nbsp; currently learning &nbsp; 🪄</h2>
 
-<br>
-
-<table align="center" width="92%">
+<table align="center" width="100%" style="border-collapse: collapse;">
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="25%" style="padding: 10px;">
 
 🌱
 
@@ -386,7 +353,7 @@ A data-structures project using movie information to explore searching, organiza
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="25%" style="padding: 10px;">
 
 🏗️
 
@@ -398,7 +365,7 @@ A data-structures project using movie information to explore searching, organiza
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="25%" style="padding: 10px;">
 
 📊
 
@@ -410,7 +377,7 @@ A data-structures project using movie information to explore searching, organiza
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="25%" style="padding: 10px;">
 
 🤖
 
@@ -428,9 +395,11 @@ A data-structures project using movie information to explore searching, organiza
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LEARNING-FFF1F6?style=for-the-badge&labelColor=FFF1F6&color=D985A9" alt="Learning" />
-  <img src="https://img.shields.io/badge/BUILDING-F7EAF0?style=for-the-badge&labelColor=F7EAF0&color=C991AC" alt="Building" />
-  <img src="https://img.shields.io/badge/EXPERIMENTING-F2EDF7?style=for-the-badge&labelColor=F2EDF7&color=A78EB8" alt="Experimenting" />
+  <img src="https://img.shields.io/badge/LEARNING-FFF1F6?style=for-the-badge&labelColor=FFF1F6&color=D985A9" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/BUILDING-F7EAF0?style=for-the-badge&labelColor=F7EAF0&color=C991AC" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/EXPERIMENTING-F2EDF7?style=for-the-badge&labelColor=F2EDF7&color=A78EB8" height="28"/>
 </p>
 
 <p align="center">
@@ -446,13 +415,9 @@ A data-structures project using movie information to explore searching, organiza
 
 <h2 align="center">🌙 &nbsp; where i'm heading &nbsp; 🌙</h2>
 
-<br>
-
-<table align="center" width="85%">
+<table align="center" width="100%" style="border-collapse: collapse;">
 <tr>
-<td align="center">
-
-<br>
+<td align="center" style="padding: 15px;">
 
 ### ✦ still figuring things out ✦
 
@@ -473,8 +438,6 @@ which ideas are worth turning into products · and what kind of engineer I want 
 
 **And I think that's part of the fun.**
 
-<br>
-
 </td>
 </tr>
 </table>
@@ -489,12 +452,10 @@ which ideas are worth turning into products · and what kind of engineer I want 
   <i>a small snapshot of my coding journey</i>
 </p>
 
-<br>
-
-<table align="center" width="92%">
+<table align="center" width="100%" style="border-collapse: collapse;">
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top" style="padding: 10px;">
 
 ### 🌷 activity
 
@@ -502,13 +463,13 @@ which ideas are worth turning into products · and what kind of engineer I want 
 
 <img
   src="https://github-stats-extended.vercel.app/api?username=amaln2002&show_icons=true&hide_border=true&bg_color=FFF9FC&title_color=C46188&icon_color=D98EAB&text_color=806875&rank_icon=github"
-  width="96%"
+  width="100%"
   alt="GitHub statistics"
 />
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top" style="padding: 10px;">
 
 ### 💻 languages
 
@@ -516,7 +477,7 @@ which ideas are worth turning into products · and what kind of engineer I want 
 
 <img
   src="https://github-stats-extended.vercel.app/api/top-langs/?username=amaln2002&layout=compact&hide_border=true&bg_color=FFF9FC&title_color=C46188&text_color=806875"
-  width="90%"
+  width="100%"
   alt="Most used languages"
 />
 
@@ -529,17 +490,14 @@ which ideas are worth turning into products · and what kind of engineer I want 
 </tr>
 </table>
 
-<br>
-
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=amaln2002&hide_border=true&background=FFF9FC&ring=D98EAB&fire=C46188&currStreakLabel=C46188&sideLabels=806875&dates=B58A9C&stroke=F0D7E2"
-    width="68%"
+    width="100%"
+    style="max-width: 800px;"
     alt="GitHub contribution streak"
   />
 </p>
-
-<br>
 
 <p align="center">
   <sub>🌱 learning &nbsp; · &nbsp; 💻 building &nbsp; · &nbsp; 🧠 solving &nbsp; · &nbsp; 🌸 growing</sub>
@@ -551,13 +509,9 @@ which ideas are worth turning into products · and what kind of engineer I want 
 
 <h2 align="center">🌷 &nbsp; a little philosophy &nbsp; 🌷</h2>
 
-<br>
-
-<table align="center" width="82%">
+<table align="center" width="100%" style="border-collapse: collapse;">
 <tr>
-<td align="center">
-
-<br>
+<td align="center" style="padding: 15px;">
 
 *I don't want my GitHub to only show what I already know.*
 
@@ -573,8 +527,6 @@ which ideas are worth turning into products · and what kind of engineer I want 
 
 **Curious enough to start.<br>Patient enough to keep learning.**
 
-<br>
-
 </td>
 </tr>
 </table>
@@ -589,15 +541,11 @@ which ideas are worth turning into products · and what kind of engineer I want 
   <i>always happy to connect, learn & share ideas ♡</i>
 </p>
 
-<br>
-
 <p align="center">
   <a href="https://github.com/amaln2002">
-    <img src="https://img.shields.io/badge/GitHub-17151A?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-17151A?style=for-the-badge&logo=github&logoColor=white" height="32"/>
   </a>
 </p>
-
-<br>
 
 <p align="center">
   🌸 &nbsp; <i>thanks for visiting my little corner of github</i> &nbsp; 🌸
