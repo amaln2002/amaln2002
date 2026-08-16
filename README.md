@@ -1,16 +1,22 @@
-<!-- ╭──────────────────────────────────────────────────────────────╮ -->
+<!-- ╭────────────────────────────────────────────────────────────────────╮ -->
 
-<!-- │                        🌷 AMAL NABIH                         │ -->
+<!-- │                         🌷 AMAL NABIH                              │ -->
 
-<!-- ╰──────────────────────────────────────────────────────────────╯ -->
+<!-- ╰────────────────────────────────────────────────────────────────────╯ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF8FB,35:F8DDE8,70:E8ABC2,100:D57D9F&height=250&section=header&text=Amal%20Nabih&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%E2%80%A2%20Software%20Engineering%20%E2%80%A2%20Data%20%E2%80%A2%20AI&descAlignY=63&descSize=15" width="100%" alt="Amal Nabih">
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF9FC,30:F9E1EB,65:EAB1C7,100:D57E9F&height=270&section=header&text=Amal%20Nabih&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=39&desc=Computer%20Science%20%E2%80%A2%20Software%20Engineering%20%E2%80%A2%20Data%20%E2%80%A2%20AI&descAlignY=63&descSize=16"
+width="100%"
+alt="Amal Nabih"
+/>
 
 <br>
 
-<font face="Times New Roman" size="4">
+<div style="font-family: 'Times New Roman', Times, serif;">
+
+<font size="4">
 
 <b>Hi, I'm Amal 🌷</b>
 
@@ -27,14 +33,18 @@ Computer Science student @ Birzeit University
 <br><br>
 
 <a href="https://github.com/amaln2002">
-<img src="https://img.shields.io/badge/GitHub-19171B?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-18161B?style=flat-square&logo=github&logoColor=white"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="https://github.com/amaln2002?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-D985A9?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/My%20Projects-D985A9?style=flat-square&logo=github&logoColor=white"/>
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=amaln2002&style=flat-square&color=D8A0B5&label=VISITORS">
+
+ 
+
+<img src="https://komarev.com/ghpvc/?username=amaln2002&style=flat-square&color=D7A0B5&label=VISITORS"/>
 
 <br><br>
 
@@ -42,35 +52,38 @@ Computer Science student @ Birzeit University
 
 </div>
 
+</div>
+
 ---
 
-<div align="center">
-
-<font face="Times New Roman">
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
 ## ୨୧   a little about me   ୨୧
 
-<table width="88%" align="center">
+<table width="94%" align="center">
 <tr>
 
-<td width="62%" align="center" valign="middle">
+<td align="center">
 
 <font size="4">
 
-I'm a **Computer Science student at Birzeit University** who enjoys understanding how technology works and turning ideas into things I can actually build.
+I'm a **Computer Science student at Birzeit University** who loves turning ideas into things I can actually build.
 
 <br><br>
 
-My interests sit between
+My world sits somewhere between
 
 <br><br>
 
-`Software Engineering` · `Full-Stack Development`
-`Data Science` · `Machine Learning` · `UI / UX`
+`Software Engineering`   ✦  
+`Full-Stack`   ✦  
+`Data`   ✦  
+`AI`   ✦  
+`UI / UX`
 
 <br><br>
 
-I like moving through the whole journey:
+I enjoy understanding how the pieces connect:
 
 <br>
 
@@ -78,32 +91,11 @@ I like moving through the whole journey:
 
 <br><br>
 
-I'm currently growing toward **software engineering** while keeping my curiosity for **data and AI**.
+I'm growing toward **software engineering**, while continuing to explore **data science and artificial intelligence**.
 
 <br><br>
 
-<i>“Build it. Understand it. Improve it.”</i>
-
-</font>
-
-</td>
-
-<td width="38%" align="center" valign="middle">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFF0F5&height=125&section=header&text=%F0%9F%8C%B7&fontSize=58&fontColor=D985A9" width="80%">
-
-<br><br>
-
-<font size="3">
-
-<b>currently growing into</b>
-
-<br><br>
-
-🌱 Software Engineer <br>
-💻 Full-Stack Developer <br>
-📊 Data Explorer <br>
-🤖 AI Enthusiast
+<i>🌷 Build it. Understand it. Make it better.</i>
 
 </font>
 
@@ -112,21 +104,17 @@ I'm currently growing toward **software engineering** while keeping my curiosity
 </tr>
 </table>
 
-</font>
-
 </div>
 
 <br>
 
 ---
 
-<div align="center">
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
-<font face="Times New Roman">
+## 🌸   my little tech universe   🌸
 
-## ✦   what i'm into   ✦
-
-<table width="88%" align="center">
+<table width="94%" align="center">
 
 <tr>
 
@@ -138,15 +126,9 @@ I'm currently growing toward **software engineering** while keeping my curiosity
 
 <b>SOFTWARE</b>
 
-<br><br>
+<br>
 
-<font size="3">
-
-Backend · APIs <br>
-Databases · Architecture <br>
-Full-Stack · Problem Solving
-
-</font>
+<sub>backend · APIs · databases · architecture · problem solving</sub>
 
 </td>
 
@@ -158,15 +140,9 @@ Full-Stack · Problem Solving
 
 <b>DATA + AI</b>
 
-<br><br>
+<br>
 
-<font size="3">
-
-Analysis · Visualization <br>
-Machine Learning <br>
-Prediction · Experimentation
-
-</font>
+<sub>analysis · visualization · ML · prediction · experimentation</sub>
 
 </td>
 
@@ -178,15 +154,9 @@ Prediction · Experimentation
 
 <b>EXPERIENCE</b>
 
-<br><br>
+<br>
 
-<font size="3">
-
-UI / UX · HCI <br>
-Usability · Interfaces <br>
-Product Thinking
-
-</font>
+<sub>UI / UX · HCI · usability · interfaces · product thinking</sub>
 
 </td>
 
@@ -194,47 +164,41 @@ Product Thinking
 
 </table>
 
-</font>
-
 </div>
 
 <br>
 
 ---
 
-<div align="center">
-
-<font face="Times New Roman">
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
 ## 🎀   my toolbox   🎀
 
-<font size="3">
-<i>tools i've worked with throughout my journey</i>
-</font>
+<sub>things i've learned, experimented with, and built with</sub>
 
 <br><br>
 
-<table width="88%" align="center">
+<table width="94%" align="center">
 
 <tr>
 
-<td width="50%" align="center">
+<td align="center">
 
 <b>LANGUAGES</b>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,dart,c&perline=3" height="85">
+<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,dart,c&perline=6" height="52"/>
 
 </td>
 
-<td width="50%" align="center">
+<td align="center">
 
 <b>DEVELOPMENT</b>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=angular,spring,nodejs,flutter,html,css&perline=3" height="85">
+<img src="https://skillicons.dev/icons?i=angular,spring,nodejs,flutter,html,css&perline=6" height="52"/>
 
 </td>
 
@@ -242,34 +206,31 @@ Product Thinking
 
 <tr>
 
-<td width="50%" align="center">
+<td align="center">
 
 <b>DATABASES + TOOLS</b>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,figma,vscode&perline=4" height="78">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,figma,vscode&perline=7" height="52"/>
 
 </td>
 
-<td width="50%" align="center">
+<td align="center">
 
 <b>DATA + ML</b>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Pandas-FFF0F5?style=flat-square&logo=pandas&logoColor=C45F87">
-<img src="https://img.shields.io/badge/NumPy-FBE7EF?style=flat-square&logo=numpy&logoColor=C45F87">
-<br>
-<img src="https://img.shields.io/badge/Scikit--Learn-F2DFE8?style=flat-square&logo=scikit-learn&logoColor=824763">
+<img src="https://img.shields.io/badge/Pandas-FFF0F5?style=flat-square&logo=pandas&logoColor=C15C84"/>
+<img src="https://img.shields.io/badge/NumPy-FBE7EF?style=flat-square&logo=numpy&logoColor=C15C84"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F2DFE8?style=flat-square&logo=scikit-learn&logoColor=824763"/>
 
 </td>
 
 </tr>
 
 </table>
-
-</font>
 
 </div>
 
@@ -277,55 +238,46 @@ Product Thinking
 
 ---
 
-<div align="center">
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
-<font face="Times New Roman">
+## 🌷   things i've built   🌷
 
-## 🌷   selected projects   🌷
-
-<font size="3">
-<i>a few projects that represent what i enjoy building</i>
-</font>
+<sub>a few projects that represent different sides of my journey</sub>
 
 <br><br>
 
-<table width="88%" align="center">
+<!-- PROJECT 01 -->
+
+<table width="94%" align="center">
 
 <tr>
 
-<td width="70%" align="center" valign="middle">
+<td align="center">
 
-<font size="4"><b>🏋🏻‍♀️ Ladies GYM Management System</b></font>
+<font size="4">
 
-<br><br>
-
-<font size="3">
-
-A complete desktop management system for a women's gym.
-
-<br><br>
-
-<b>Java</b> · <b>JavaFX</b> · <b>MySQL</b>
-
-<br><br>
-
-Members · Trainers · Classes · Services · Events · Offers · Payments
-
-<br>
-
-<sub>database design · CRUD · UI · application logic</sub>
+<b>🏋🏻‍♀️ Ladies GYM Management System</b>
 
 </font>
 
-</td>
+<br><br>
 
-<td width="30%" align="center">
+<sub>
 
-🏋🏻‍♀️ <br>
-🗄️ <br>
-🖥️ <br><br>
+A complete desktop management system combining database design,
+application logic, and a full JavaFX interface.
 
-<img src="https://img.shields.io/badge/JAVA%20%2B%20JAVAFX-F7E4EC?style=flat-square&logo=java&logoColor=C15C84">
+</sub>
+
+<br><br>
+
+<code>Java</code>
+  <code>JavaFX</code>
+  <code>MySQL</code>
+
+   ✦   
+
+<sub>members · trainers · classes · services · payments · offers</sub>
 
 </td>
 
@@ -335,39 +287,38 @@ Members · Trainers · Classes · Services · Events · Offers · Payments
 
 <br>
 
-<table width="88%" align="center">
+<!-- PROJECT 02 -->
+
+<table width="94%" align="center">
 
 <tr>
 
-<td width="30%" align="center">
+<td align="center">
 
-✈️ <br>
-🌳 <br>
-🔎 <br><br>
+<font size="4">
 
-<img src="https://img.shields.io/badge/JAVA-F7E4EC?style=flat-square&logo=java&logoColor=C15C84">
-
-</td>
-
-<td width="70%" align="center" valign="middle">
-
-<font size="4"><b>✈️ Flights Management System</b></font>
-
-<br><br>
-
-<font size="3">
-
-A Java + JavaFX application for managing flight information.
-
-<br><br>
-
-<b>Java</b> · <b>JavaFX</b> · <b>Data Structures</b>
-
-<br><br>
-
-Searching · Data Organization · GUI · Algorithmic Thinking
+<b>✈️ Flights Management System</b>
 
 </font>
+
+<br><br>
+
+<sub>
+
+A JavaFX application for managing flight information while applying
+data-structure and algorithmic concepts.
+
+</sub>
+
+<br><br>
+
+<code>Java</code>
+  <code>JavaFX</code>
+  <code>Data Structures</code>
+
+   ✦   
+
+<sub>searching · organization · GUI · algorithmic thinking</sub>
 
 </td>
 
@@ -377,43 +328,38 @@ Searching · Data Organization · GUI · Algorithmic Thinking
 
 <br>
 
-<table width="88%" align="center">
+<!-- PROJECT 03 -->
+
+<table width="94%" align="center">
 
 <tr>
 
-<td width="70%" align="center" valign="middle">
+<td align="center">
 
-<font size="4"><b>📊 Data Wrangling Project</b></font>
+<font size="4">
 
-<br><br>
-
-<font size="3">
-
-A project focused on turning raw data into clean,
-useful information.
-
-<br><br>
-
-<b>Python</b> · <b>Pandas</b> · <b>Data Analysis</b>
-
-<br><br>
-
-Collect → Assess → Clean → Analyze → Visualize
-
-<br>
-
-<sub>data quality · cleaning · visualization · storytelling</sub>
+<b>📊 Data Wrangling Project</b>
 
 </font>
 
-</td>
+<br><br>
 
-<td width="30%" align="center">
+<sub>
 
-📥 <br>
-🧹 <br>
-📊 <br>
-📈
+Turning raw data into clean, useful information through assessment,
+cleaning, analysis, and visualization.
+
+</sub>
+
+<br><br>
+
+<code>Python</code>
+  <code>Pandas</code>
+  <code>Data Analysis</code>
+
+   ✦   
+
+<sub>collect → assess → clean → analyze → visualize</sub>
 
 </td>
 
@@ -423,40 +369,38 @@ Collect → Assess → Clean → Analyze → Visualize
 
 <br>
 
-<table width="88%" align="center">
+<!-- PROJECT 04 -->
+
+<table width="94%" align="center">
 
 <tr>
 
-<td width="30%" align="center">
+<td align="center">
 
-🤖 <br>
-🧠 <br>
-📈 <br><br>
+<font size="4">
 
-<img src="https://img.shields.io/badge/ML-F7E4EC?style=flat-square&logo=scikit-learn&logoColor=C15C84">
-
-</td>
-
-<td width="70%" align="center" valign="middle">
-
-<font size="4"><b>🤖 ML Prediction Model</b></font>
-
-<br><br>
-
-<font size="3">
-
-A machine-learning project exploring prediction models
-and model evaluation.
-
-<br><br>
-
-<b>Python</b> · <b>Pandas</b> · <b>Scikit-learn</b>
-
-<br><br>
-
-Data Preparation · Training · Prediction · Evaluation
+<b>🤖 ML Prediction Model</b>
 
 </font>
+
+<br><br>
+
+<sub>
+
+A machine-learning project exploring prediction models,
+training, and evaluation.
+
+</sub>
+
+<br><br>
+
+<code>Python</code>
+  <code>Pandas</code>
+  <code>Scikit-learn</code>
+
+   ✦   
+
+<sub>data preparation · training · prediction · evaluation</sub>
 
 </td>
 
@@ -466,40 +410,38 @@ Data Preparation · Training · Prediction · Evaluation
 
 <br>
 
-<table width="88%" align="center">
+<!-- PROJECT 05 -->
+
+<table width="94%" align="center">
 
 <tr>
 
-<td width="70%" align="center" valign="middle">
+<td align="center">
 
-<font size="4"><b>🔎 Investigating a Dataset</b></font>
+<font size="4">
 
-<br><br>
-
-<font size="3">
-
-An early data-analysis project focused on exploring
-a dataset, asking questions, finding patterns,
-and communicating insights.
-
-<br><br>
-
-<b>Python</b> · <b>Data Analysis</b> · <b>Visualization</b>
-
-<br><br>
-
-🔎 Explore · 📊 Analyze · ✨ Discover
+<b>🔎 Investigating a Dataset</b>
 
 </font>
 
-</td>
+<br><br>
 
-<td width="30%" align="center">
+<sub>
 
-🔎 <br>
-📊 <br>
-💭 <br>
-🌱
+An early data-analysis project focused on exploring a dataset,
+asking questions, discovering patterns, and communicating insights.
+
+</sub>
+
+<br><br>
+
+<code>Python</code>
+  <code>Data Analysis</code>
+  <code>Visualization</code>
+
+   ✦   
+
+<sub>explore · analyze · question · discover</sub>
 
 </td>
 
@@ -509,55 +451,48 @@ and communicating insights.
 
 <br>
 
-<table width="88%" align="center">
+<!-- PROJECT 06 -->
+
+<table width="94%" align="center">
 
 <tr>
 
-<td width="30%" align="center">
+<td align="center">
 
-🏥 <br>
-🧩 <br>
-🎨 <br>
-💻
+<font size="4">
 
-<br><br>
+<b>🏥 Clinic Management Platform</b>
 
-<img src="https://img.shields.io/badge/FULL--STACK-F7E4EC?style=flat-square&logo=angular&logoColor=C15C84">
+ 
 
-</td>
-
-<td width="70%" align="center" valign="middle">
-
-<font size="4"><b>🏥 Clinic Management Platform</b></font>
-
-<br><br>
-
-<font size="3">
-
-A larger software-engineering project focused on
-creating a better digital experience for clinics and patients.
-
-<br><br>
-
-<b>Angular</b> · <b>Spring Boot</b> · <b>MySQL</b>
-
-<br><br>
-
-System Design · APIs · Database Architecture · HCI · Usability
-
-<br>
-
-<sub>currently developing & improving</sub>
+<img src="https://img.shields.io/badge/IN%20PROGRESS-F8E8EF?style=flat-square&color=C991AC"/>
 
 </font>
+
+<br><br>
+
+<sub>
+
+A larger software-engineering project focused on creating
+a better digital experience for clinics and patients.
+
+</sub>
+
+<br><br>
+
+<code>Angular</code>
+  <code>Spring Boot</code>
+  <code>MySQL</code>
+
+   ✦   
+
+<sub>system design · APIs · database architecture · HCI · usability</sub>
 
 </td>
 
 </tr>
 
 </table>
-
-</font>
 
 </div>
 
@@ -565,69 +500,35 @@ System Design · APIs · Database Architecture · HCI · Usability
 
 ---
 
-<div align="center">
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
-<font face="Times New Roman">
+## 🪄   currently learning   🪄
 
-## 🪄   what i'm learning now   🪄
-
-<table width="88%">
+<table width="94%" align="center">
 
 <tr>
 
 <td align="center">
 
-🌱
-
-<br>
-
-<b>Spring Boot</b>
-
-<br>
-
-<sub>backend + APIs</sub>
+🌱   <b>Spring Boot</b> <br> <sub>backend + APIs</sub>
 
 </td>
 
 <td align="center">
 
-🏗️
-
-<br>
-
-<b>Architecture</b>
-
-<br>
-
-<sub>better systems</sub>
+🏗️   <b>Software Architecture</b> <br> <sub>better systems</sub>
 
 </td>
 
 <td align="center">
 
-📊
-
-<br>
-
-<b>Data Science</b>
-
-<br>
-
-<sub>analysis + ML</sub>
+📊   <b>Data Science</b> <br> <sub>analysis + ML</sub>
 
 </td>
 
 <td align="center">
 
-🤖
-
-<br>
-
-<b>AI</b>
-
-<br>
-
-<sub>intelligent systems</sub>
+🤖   <b>AI</b> <br> <sub>intelligent systems</sub>
 
 </td>
 
@@ -637,13 +538,11 @@ System Design · APIs · Database Architecture · HCI · Usability
 
 <br>
 
-<img src="https://img.shields.io/badge/LEARNING-FFF1F6?style=flat-square&color=D77FA1">
+<img src="https://img.shields.io/badge/LEARNING-FFF1F6?style=flat-square&color=D77FA1"/>
 &nbsp;
-<img src="https://img.shields.io/badge/BUILDING-F8E8EF?style=flat-square&color=C991AC">
+<img src="https://img.shields.io/badge/BUILDING-F8E8EF?style=flat-square&color=C991AC"/>
 &nbsp;
-<img src="https://img.shields.io/badge/EXPLORING-F4EFF7?style=flat-square&color=A78EB8">
-
-</font>
+<img src="https://img.shields.io/badge/EXPLORING-F4EFF7?style=flat-square&color=A78EB8"/>
 
 </div>
 
@@ -651,13 +550,11 @@ System Design · APIs · Database Architecture · HCI · Usability
 
 ---
 
-<div align="center">
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
-<font face="Times New Roman">
+## 🌙   where i'm heading   🌙
 
-## 🌙   the direction i'm growing in   🌙
-
-<table width="88%">
+<table width="94%" align="center">
 
 <tr>
 
@@ -671,23 +568,29 @@ System Design · APIs · Database Architecture · HCI · Usability
 
 <br><br>
 
-<font size="3">
+<sub>
 
-I'm interested in the space where <b>software engineering, data, AI, and design</b> meet.
+I'm interested in the space where software engineering,
+data, AI, and thoughtful design meet.
+
+</sub>
 
 <br><br>
 
 <b>Problem</b>
-  →   <b>System</b>
-  →   <b>Data</b>
-  →   <b>Intelligence</b>
-  →   <b>Product</b>
+  ✦   <b>System</b>
+  ✦   <b>Data</b>
+  ✦   <b>Intelligence</b>
+  ✦   <b>Product</b>
 
 <br><br>
 
-I want to become an engineer who can understand
-a problem from the system level, work with the data
-behind it, and still care about the people using it.
+<sub>
+
+I want to become an engineer who can understand the system,
+work with the data behind it, and still care about the person using it.
+
+</sub>
 
 <br><br>
 
@@ -695,9 +598,7 @@ behind it, and still care about the people using it.
 
 <br>
 
-<b>technically strong + creatively curious</b>
-
-</font>
+<b>technically strong · creatively curious · always learning</b>
 
 </td>
 
@@ -705,26 +606,23 @@ behind it, and still care about the people using it.
 
 </table>
 
-</font>
-
 </div>
 
 <br>
 
 ---
 
-<div align="center">
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
-<font face="Times New Roman">
-
-## 🌸   my learning loop   🌸
+## 🌱   my learning loop   🌱
 
 <br>
 
-<b>🌱 Learn</b>
-  →   <b>💻 Build</b>
-  →   <b>🔎 Break</b>
-  →   <b>✨ Improve</b>
+<b>Learn</b>
+  →   <b>Build</b>
+  →   <b>Break</b>
+  →   <b>Understand</b>
+  →   <b>Improve</b>
 
 <br><br>
 
@@ -733,36 +631,28 @@ I learn best when I can stop reading about something
 and start building with it.
 </i>
 
-</font>
-
 </div>
 
 <br>
 
 ---
 
-<div align="center">
-
-<font face="Times New Roman">
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
 ## 💌   let's connect   💌
 
-<br>
-
-<font size="3">
-<i>Interested in software, data, AI, or building something interesting?</i>
-</font>
+<sub>interested in software, data, AI, or building something interesting?</sub>
 
 <br><br>
 
 <a href="https://github.com/amaln2002">
-<img src="https://img.shields.io/badge/GitHub-19171B?style=for-the-badge&logo=github&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/GitHub-18161B?style=for-the-badge&logo=github&logoColor=white" height="30"/>
 </a>
 
  
 
 <a href="https://github.com/amaln2002?tab=repositories">
-<img src="https://img.shields.io/badge/My%20Projects-D985A9?style=for-the-badge&logo=github&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/My%20Projects-D985A9?style=for-the-badge&logo=github&logoColor=white" height="30"/>
 </a>
 
 <br><br>
@@ -773,12 +663,16 @@ and start building with it.
 
 <sub>build something beautiful · understand something deeply · keep going ♡</sub>
 
-</font>
-
 </div>
 
-<br><br>
+<br>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4779C,35:E5A1BC,70:F4CDDC,100:FFF8FB&height=135&section=footer" width="100%" alt="Footer">
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:D57D9F,35:E5A1BC,70:F4CDDC,100:FFF9FC&height=125&section=footer"
+width="100%"
+alt="Footer"
+/>
+
 </p>
