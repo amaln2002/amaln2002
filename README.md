@@ -1,89 +1,186 @@
-<h1 align="center">Hi, I'm Amal Nabih 👋</h1>
-<h3 align="center">Computer Science Student @ Birzeit University | Full-Stack Developer</h3>
+# Hey, I'm Amal 👋
+
+### `Computer Science Student` · `Software Engineer in Progress` · `Builder`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E63946&center=true&vCenter=true&width=500&lines=Building+full-stack+apps+with+Java+%26+Angular;Graduating+Feb+2027+%F0%9F%8E%93;Exploring+Backend+Dev+%26+AI%2FML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=I+turn+ideas+into+working+software.;Full-Stack+%7C+Backend+%7C+Data+%26+AI;Currently+building+%26+learning+something+new+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/amaln2002">
+    <img src="https://komarev.com/ghpvc/?username=amaln2002&style=flat-square&color=8B5CF6" />
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
+## ✦ A little about me
 
-- 🎓 Final-year Computer Science student at **Birzeit University**, graduating **02/2027**
-- 💻 I build full-stack applications spanning **Java/Spring Boot**, **Angular**, **Flutter**, **PHP**, and **PostgreSQL**
-- 🩸 Currently working on my graduation project, **LifeShare** — a cross-platform blood donation platform connecting donors, patients, and hospitals across Palestine
-- 🌱 Interested in **backend development** and **AI/ML**
-- 📍 Based in Ramallah, Palestine
+I'm **Amal**, a Computer Science student at **Birzeit University** who enjoys turning ideas into real, usable products.
 
----
+My main interests are **software engineering, backend development, data, and AI/ML**. I like understanding how things work behind the interface — from designing databases and APIs to building the models and logic that power an application.
 
-### 🛠️ Tech Stack
+I'm currently focused on becoming a stronger **software engineer**, building meaningful projects, and exploring where **AI can make software smarter**.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+```text
+📍 Palestine
+🎓 B.Sc. Computer Science — Birzeit University
+💻 Full-Stack & Backend Development
+🧠 Data Science & Machine Learning
+🚀 Always building, learning, and experimenting
+```
 
 ---
 
-### 📌 Featured Projects
+## 🧩 What I build
 
 <table>
-  <tr>
-    <td width="50%">
-      <h4>🩸 LifeShare — Blood Donation Platform</h4>
-      <p>Graduation project connecting donors, patients, and hospitals across Palestine. Built with Flutter, Spring Boot, and PostgreSQL, with Firebase push notifications and location-based donor matching.</p>
-      <sub><b>Flutter · Spring Boot · PostgreSQL · Firebase</b></sub>
-    </td>
-    <td width="50%">
-      <h4>✅ Angular + Spring Boot TODO App</h4>
-      <p>Full-stack task management app connecting an Angular frontend to a Spring Boot/PostgreSQL backend, containerized and deployed on Render.com.</p>
-      <sub><b>Angular · Spring Boot · PostgreSQL · Docker</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🏥 Clinic Reservation System</h4>
-      <p>Appointment booking system with role-based access for patients, doctors, and admins, secured with JWT authentication.</p>
-      <sub><b>Angular · Spring Boot · MySQL · JWT</b></sub>
-    </td>
-    <td width="50%">
-      <h4>✈️ Flight Delay Prediction</h4>
-      <p>Two-stage ML pipeline predicting flight delays for European airports using classification and regression models.</p>
-      <sub><b>Python · Scikit-learn · Pandas</b></sub>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### ⚙️ Software Engineering
+
+* REST APIs
+* Backend systems
+* Database design
+* Authentication & authorization
+* Full-stack web applications
+* Mobile applications
+
+</td>
+
+<td width="50%">
+
+### 🧠 Data & AI
+
+* Data analysis
+* Data visualization
+* Machine learning
+* Predictive models
+* Data preprocessing
+* Exploring AI in software engineering
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ My Toolkit
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,dart,php,c" />
+</p>
+
+### Frameworks & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,angular,flutter,nodejs,html,css" />
+</p>
+
+### Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,docker,figma,vscode" />
+</p>
+
+### Data & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Data Analysis` · `Machine Learning`
+
+---
+
+## 🚀 Projects I'm proud of
+
+### 🩸 LifeShare
+
+**A cross-platform blood donation platform designed to connect donors, patients, and hospitals.**
+
+The goal is to make finding compatible blood donors faster and more organized while providing useful communication and notification features.
+
+`Flutter` `Spring Boot` `PostgreSQL` `Firebase`
+
+---
+
+### ☑️ Full-Stack Todo Application
+
+A complete task-management application built to practice real-world full-stack architecture, API communication, database persistence, authentication, and deployment.
+
+`Angular` `Spring Boot` `PostgreSQL` `Docker`
+
+---
+
+### 🏥 Clinic Reservation System
+
+A clinic management and appointment-booking system designed around different user roles, including patients, doctors, and administrators.
+
+`Angular` `Spring Boot` `MySQL` `JWT`
+
+---
+
+### ✈️ Flight Delay Prediction
+
+A machine-learning project focused on predicting flight delays through a two-stage prediction pipeline using classification and regression techniques.
+
+`Python` `Pandas` `Scikit-learn` `Machine Learning`
+
+---
+
+## 📊 GitHub at a glance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amaln2002&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaln2002&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amaln2002&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaln2002&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaln2002&hide_border=true" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=amaln2002&hide_border=true&theme=transparent" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+## 🌱 Currently learning
 
-<p align="left">
-  <a href="https://github.com/amaln2002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+```text
+▸ Advanced Spring Boot & backend architecture
+▸ Building production-quality full-stack applications
+▸ Machine Learning & AI
+▸ Software architecture & system design
+▸ Writing better, cleaner, more maintainable code
+```
+
+---
+
+## 💭 What I believe
+
+> Good software isn't just about making something work.
+>
+> It's about understanding the problem, designing the right solution,
+> and building something people can actually use.
+
+---
+
+## 🤝 Let's connect
+
+<p align="center">
+
+<a href="https://github.com/amaln2002">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
-<p align="center"><i>⭐️ Thanks for stopping by!</i></p>
+<p align="center">
+  <i>Thanks for visiting — feel free to explore my repositories ✨</i>
+</p>
+
+<p align="center">
+  <sub>Built with curiosity, caffeine, and way too many tabs open.</sub> ☕
+</p>
