@@ -529,41 +529,97 @@ and what kind of engineer I want to become
 
 <!-- ========================== GITHUB ================================ -->
 
-<h2 align="center">☁️ &nbsp; github garden &nbsp; ☁️</h2>
+<h2 align="center">୨୧ &nbsp; my github lately &nbsp; ୨୧</h2>
 
 <p align="center">
-  <i>a little snapshot of my coding journey</i>
+  <i>a tiny window into my coding journey ✦</i>
 </p>
 
 <br>
 
-<p align="center">
+<table align="center" width="90%">
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<h3>🌷 coding journey</h3>
+
+<br>
 
 <img
 src="https://github-stats-extended.vercel.app/api?username=amaln2002&show_icons=true&hide_border=true&bg_color=FFF9FC&title_color=C46188&icon_color=D98EAB&text_color=806875&rank_icon=github"
-width="48%"
-alt="GitHub Stats"
+width="94%"
+alt="Amal's GitHub statistics"
 />
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<h3>💻 my favorite languages</h3>
+
+<br>
 
 <img
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=amaln2002&layout=compact&hide_border=true&bg_color=FFF9FC&title_color=C46188&text_color=806875"
-width="42%"
-alt="Top Languages"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=amaln2002&layout=donut&hide_border=true&bg_color=FFF9FC&title_color=C46188&text_color=806875"
+width="82%"
+alt="Amal's most used languages"
 />
 
-</p>
+<br><br>
+
+<sub>
+<b>languages change as I learn new things ♡</b>
+</sub>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
 <p align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=amaln2002&hide_border=true&background=FFF9FC&ring=D98EAB&fire=C46188&currStreakLabel=C46188&sideLabels=806875&dates=B58A9C"
-width="70%"
-alt="GitHub Streak"
+src="https://streak-stats.demolab.com?user=amaln2002&hide_border=true&background=FFF9FC&ring=D98EAB&fire=C46188&currStreakLabel=C46188&sideLabels=806875&dates=B58A9C&stroke=F0D7E2"
+width="68%"
+alt="Amal's GitHub contribution streak"
 />
 
 </p>
+
+<br>
+
+<table align="center" width="82%">
+<tr>
+<td align="center">
+
+🌱   <b>learning</b>
+
+   ✦   
+
+💻   <b>building</b>
+
+   ✦   
+
+🧠   <b>solving</b>
+
+   ✦   
+
+🌸   <b>growing</b>
+
+<br><br>
+
+<sub>
+Every repository is a little piece of the journey.
+</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <br>
 
