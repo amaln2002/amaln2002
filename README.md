@@ -1,14 +1,14 @@
 <!-- ╭──────────────────────────────────────────────────────────────╮ -->
 
-<!-- │                    🌷 AMAL NABIH · README                    │ -->
+<!-- │                 🌷 AMAL NABIH · GITHUB                       │ -->
 
 <!-- ╰──────────────────────────────────────────────────────────────╯ -->
 
-<!-- ============================== HERO ============================== -->
+<!-- =============================== HERO ============================== -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE8F1,45:FBC7DC,100:EC8BB3&height=250&section=header&text=Amal%20Nabih&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9C%A6%20Computer%20Science%20%E2%80%A2%20Software%20%E2%80%A2%20Data%20%E2%80%A2%20AI%20%E2%9C%A6&descAlignY=59&descSize=17"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF4F8,35:F9D6E5,70:EFA9C5,100:DC789F&height=290&section=header&text=Amal%20Nabih&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%20%E2%80%A2%20%20Software%20%E2%80%A2%20Data%20%E2%80%A2%20AI&descAlignY=61&descSize=17"
     width="100%"
     alt="Amal Nabih"
   />
@@ -16,29 +16,41 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=19&duration=2800&pause=1000&color=DB6F9A&center=true&vCenter=true&width=780&lines=hi%2C+I'm+Amal+%F0%9F%8C%B7;Computer+Science+student+%40+Birzeit+University;learning+to+build+better+software+%E2%9C%A8;exploring+software+engineering%2C+data+%26+AI;one+project%2C+one+idea%2C+one+lesson+at+a+time+%F0%9F%8C%B8"
+    src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&duration=3000&pause=900&color=C85F89&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Amal+%F0%9F%8C%B7;Computer+Science+student+%40+Birzeit+University;I+like+turning+ideas+into+software+%E2%9C%A8;Exploring+software+engineering%2C+data+%26+AI;Still+learning.+Still+building.+Still+curious.+%F0%9F%8C%B8"
     alt="Typing introduction"
   />
-</p>
-
-<p align="center">
-  <a href="https://github.com/amaln2002">
-    <img src="https://img.shields.io/badge/GitHub-1F1B20?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://github.com/amaln2002?tab=repositories">
-    <img src="https://img.shields.io/badge/My%20Projects-EA82A8?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=amaln2002&style=for-the-badge&color=E9A0BD&label=VISITORS" alt="Profile visitors"/>
 </p>
 
 <br>
 
 <p align="center">
-  <b>˚₊‧꒰ა 🌸 ໒꒱ ‧₊˚</b>
+
+<a href="https://github.com/amaln2002">
+<img src="https://img.shields.io/badge/GitHub-17151A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/amaln2002?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-E28BAE?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=amaln2002&style=for-the-badge&color=D989A9&label=PROFILE%20VIEWS"/>
+
+</p>
+
+<br>
+
+<!-- =========================== HERO IMAGE =========================== -->
+
+<p align="center">
+  <img
+    src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=85"
+    width="88%"
+    alt="Developer workspace"
+  />
 </p>
 
 <p align="center">
-  <i>learning, building, experimenting & figuring things out along the way.</i>
+  <sub>♡ somewhere between an idea, a keyboard, and a cup of coffee ♡</sub>
 </p>
 
 <br>
@@ -47,119 +59,146 @@
 
 <!-- ============================ ABOUT =============================== -->
 
-<h2 align="center">୨୧ &nbsp; a little about me &nbsp; ୨୧</h2>
+<h2 align="center">୨୧ &nbsp; hello, i'm amal &nbsp; ୨୧</h2>
 
 <br>
 
 <table align="center" width="90%">
 <tr>
-<td width="62%" valign="top">
 
-### 🌷 hi, i'm amal!
+<td width="58%" valign="top">
 
-I'm a **Computer Science student at Birzeit University** who enjoys turning ideas into software and learning how technology can solve real problems.
+### 🌷 A little about me
 
-I'm especially interested in the space between:
+I'm a **Computer Science student at Birzeit University** interested in understanding how software works — from the idea behind a system all the way to the interface people interact with.
 
-<p align="center">
+I enjoy working across different parts of technology:
 
-`SOFTWARE ENGINEERING`
-  ✦  
-`DATA`
-  ✦  
-`AI`
-  ✦  
-`UI / UX`
+**software engineering · backend · databases · data · AI · UI/UX**
 
-</p>
+What I enjoy most isn't simply learning another framework.
 
-I like the whole process — not just writing code.
+It's taking an idea and asking:
 
-I enjoy thinking about **how a system should work**, designing databases and APIs, building interfaces, exploring data, solving programming problems, and improving an idea until it feels useful.
+> *How could this actually work?*
 
-I'm still learning and figuring out where I want to specialize, but I'm currently growing toward **software engineering**, while keeping a strong interest in **data science and artificial intelligence**.
+Then designing the logic, figuring out the data, building the system, and improving it as I learn more.
+
+I'm still exploring where I want to specialize, but I'm currently growing toward **software engineering** while continuing to explore **data science and artificial intelligence**.
 
 <br>
 
 <p align="center">
-  💻 build &nbsp; • &nbsp; 🧠 understand &nbsp; • &nbsp; 🎨 design &nbsp; • &nbsp; 📊 explore &nbsp; • &nbsp; 🤖 experiment
+
+💻 build
+  ✦  
+🧠 understand
+  ✦  
+🎨 design
+  ✦  
+📊 explore
+  ✦  
+🌱 improve
+
 </p>
 
 </td>
 
-<td width="38%" align="center" valign="middle">
+<td width="42%" align="center" valign="middle">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12&height=180&section=header&text=%E2%9C%A8&fontSize=70&fontColor=ffffff"
-width="80%"
-alt="Cute coding decoration"
+src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=700&q=85"
+width="90%"
+alt="Coding workspace"
 />
-
-<br>
-
-<b>currently growing</b>
 
 <br><br>
 
-🌱 Software Engineering
-🌸 Full-Stack Development
-📊 Data & Analytics
-🤖 Machine Learning
-🎨 UI / UX
+<sub>
+<b>currently becoming:</b>
+</sub>
+
+<br>
+
+🌸 a better software engineer
+🌱 a stronger problem solver
+📊 more comfortable with data
+🤖 curious about AI
 
 </td>
+
 </tr>
 </table>
 
 <br>
 
-<!-- ========================== MY APPROACH =========================== -->
+<!-- ========================= PERSONAL BRAND ========================= -->
 
-<h2 align="center">🌸 &nbsp; how i like to build &nbsp; 🌸</h2>
+<h2 align="center">✦ &nbsp; what i'm about &nbsp; ✦</h2>
 
 <br>
 
 <table align="center" width="90%">
 <tr>
 
-<td align="center" width="25%" valign="top">
-<h2>💭</h2>
-<b>START WITH AN IDEA</b>
+<td align="center" width="25%">
+
+### 💭
+
+<b>IDEAS</b>
+
 <br>
+
 <sub>
-I like asking<br>
-"what problem are we solving?"
+I enjoy starting<br>
+with real problems.
 </sub>
+
 </td>
 
-<td align="center" width="25%" valign="top">
-<h2>🏗️</h2>
-<b>UNDERSTAND THE SYSTEM</b>
+<td align="center" width="25%">
+
+### 🏗️
+
+<b>SYSTEMS</b>
+
 <br>
+
 <sub>
-logic · data · APIs<br>
-architecture
+I like understanding<br>
+how things connect.
 </sub>
+
 </td>
 
-<td align="center" width="25%" valign="top">
-<h2>🎨</h2>
-<b>MAKE IT USABLE</b>
+<td align="center" width="25%">
+
+### 🎨
+
+<b>EXPERIENCE</b>
+
 <br>
+
 <sub>
-interfaces · experience<br>
-simplicity
+I care about how<br>
+people use software.
 </sub>
+
 </td>
 
-<td align="center" width="25%" valign="top">
-<h2>🌱</h2>
-<b>KEEP IMPROVING</b>
+<td align="center" width="25%">
+
+### 🌱
+
+<b>GROWTH</b>
+
 <br>
+
 <sub>
-learn · experiment<br>
-iterate
+I'm always learning<br>
+something new.
 </sub>
+
 </td>
 
 </tr>
@@ -167,87 +206,64 @@ iterate
 
 <br>
 
-<!-- ========================== INTERESTS ============================= -->
+<!-- ============================ FOCUS =============================== -->
 
-<h2 align="center">✦ &nbsp; what i'm curious about &nbsp; ✦</h2>
+<h2 align="center">🌸 &nbsp; my current direction &nbsp; 🌸</h2>
 
 <br>
 
-<table align="center" width="88%">
-<tr>
+<p align="center">
 
-<td align="center" width="33%" valign="top">
+<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-FFF1F6?style=for-the-badge&labelColor=FFF1F6&color=E7A0BA"/>
 
-### 💻 Software
+<img src="https://img.shields.io/badge/FULL--STACK-EFE4FF?style=for-the-badge&labelColor=EFE4FF&color=C8A9E5"/>
 
-Full-stack applications
-Backend systems
-APIs
-Databases
-Software architecture
-Problem solving
+<img src="https://img.shields.io/badge/DATA-FFF0D9?style=for-the-badge&labelColor=FFF0D9&color-E3BD82"/>
 
-</td>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-E7F4F0?style=for-the-badge&labelColor=E7F4F0&color=A8D4C5"/>
 
-<td align="center" width="33%" valign="top">
+</p>
 
-### 📊 Data
-
-Data analysis
-Data visualization
-Machine learning
-Prediction models
-Finding patterns
-Turning data into insights
-
-</td>
-
-<td align="center" width="33%" valign="top">
-
-### 🎨 Product
-
-UI / UX
-Designing useful interfaces
-Human-centered thinking
-Making technical ideas easier to use
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <i>
+  I'm not trying to collect technologies.<br>
+  I'm trying to understand how to use them well.
+  </i>
+</p>
 
 <br>
 
 <!-- ========================== TECH STACK ============================ -->
 
-<h2 align="center">🎀 &nbsp; my current toolbox &nbsp; 🎀</h2>
+<h2 align="center">🎀 &nbsp; my toolbox &nbsp; 🎀</h2>
 
 <p align="center">
-  <i>technologies i've worked with, experimented with, or am continuing to learn</i>
+  <sub>things i've worked with throughout my learning journey</sub>
 </p>
 
 <br>
 
 <table align="center" width="88%">
+
 <tr>
 
-<td align="center" width="50%" valign="top">
+<td align="center" valign="top">
 
-### 🌸 Languages
+### 💻 Languages
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,dart,c&perline=3" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,dart,c&perline=3"/>
 
 </td>
 
-<td align="center" width="50%" valign="top">
+<td align="center" valign="top">
 
-### 🧁 Web & Frameworks
+### 🌐 Development
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=angular,spring,nodejs,flutter,html,css&perline=3" alt="Web frameworks"/>
+<img src="https://skillicons.dev/icons?i=angular,spring,nodejs,flutter,html,css&perline=3"/>
 
 </td>
 
@@ -257,31 +273,35 @@ Making technical ideas easier to use
 
 <td align="center" valign="top">
 
-### 🗄️ Databases & Tools
+### 🗄️ Data & Tools
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,figma,vscode&perline=4" alt="Databases and tools"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,figma,vscode&perline=4"/>
 
 </td>
 
 <td align="center" valign="top">
 
-### 🤖 Data & ML
+### 🤖 Data / ML
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-FFF0F6?style=for-the-badge&logo=python&logoColor=BA5D83"/>
-<img src="https://img.shields.io/badge/Pandas-FFE3EE?style=for-the-badge&logo=pandas&logoColor=BA5D83"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/NumPy-FFD8E7?style=for-the-badge&logo=numpy&logoColor=BA5D83"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-FBC0D9?style=for-the-badge&logo=scikit-learn&logoColor=7B3B56"/>
+<img src="https://img.shields.io/badge/Pandas-FFF0F6?style=for-the-badge&logo=pandas&logoColor=C85F89"/>
+<img src="https://img.shields.io/badge/NumPy-F9E4ED?style=for-the-badge&logo=numpy&logoColor=C85F89"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F3DCE7?style=for-the-badge&logo=scikit-learn&logoColor=8A4B68"/>
 
 </td>
 
 </tr>
+
 </table>
 
 <br>
@@ -291,241 +311,323 @@ Making technical ideas easier to use
 <h2 align="center">🌷 &nbsp; projects & experiments &nbsp; 🌷</h2>
 
 <p align="center">
-  <i>some things i've built, some things i'm improving, and some ideas are still growing.</i>
+  <i>not everything here is finished — some projects are part of the journey.</i>
 </p>
 
 <br>
 
-<table align="center" width="92%">
+<!-- PROJECT 1 -->
 
+<table align="center" width="90%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="38%" align="center">
 
-<h2 align="center">🎀</h2>
-
-<h3 align="center">Todo App</h3>
-
-<p align="center">
-A full-stack task management project built while learning how frontend and backend systems communicate.
-</p>
-
-<p align="center">
-  <code>Angular</code>
-  <code>Spring Boot</code>
-  <code>PostgreSQL</code>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,spring,postgres" alt="Todo stack"/>
-</p>
-
-<p align="center">
-<sub>✦ learning full-stack architecture through practice ✦</sub>
-</p>
+<img
+src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=85"
+width="95%"
+alt="Software development"
+/>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="62%" valign="top">
 
-<h2 align="center">🏥</h2>
+<h3>🎀 Todo App</h3>
 
-<h3 align="center">Clinic Website</h3>
+A full-stack task management project created while learning how modern frontend and backend applications communicate.
 
-<p align="center">
-A clinic-management idea I'm developing around appointment scheduling and a better experience for patients and clinics.
-</p>
+**Stack**
 
-<p align="center">
-  <code>Angular</code>
-  <code>Spring Boot</code>
-  <code>MySQL</code>
-</p>
+`Angular` `Spring Boot` `PostgreSQL`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,spring,mysql" alt="Clinic stack"/>
-</p>
+**Focus**
 
-<p align="center">
-<sub>✦ currently growing from an idea into a real project ✦</sub>
-</p>
+API communication · backend logic · database persistence · frontend integration
+
+<br>
+
+<sub>✦ learning full-stack development by actually building ✦</sub>
 
 </td>
 
 </tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h2 align="center">✈️</h2>
-
-<h3 align="center">Flight Delay Prediction</h3>
-
-<p align="center">
-A machine-learning project exploring classification and regression for predicting flight delays.
-</p>
-
-<p align="center">
-  <code>Python</code>
-  <code>Pandas</code>
-  <code>Scikit-learn</code>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-</p>
-
-<p align="center">
-<sub>✦ exploring how data can become predictions ✦</sub>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h2 align="center">🎬</h2>
-
-<h3 align="center">Movie Catalog</h3>
-
-<p align="center">
-A data-structures project exploring how different structures can be used to organize and search movie information.
-</p>
-
-<p align="center">
-  <code>Java</code>
-  <code>Hash Table</code>
-  <code>AVL Tree</code>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java" alt="Java"/>
-</p>
-
-<p align="center">
-<sub>✦ algorithms hiding behind familiar applications ✦</sub>
-</p>
-
-</td>
-
-</tr>
-
 </table>
 
 <br>
 
-<!-- ========================= CURRENTLY ============================== -->
+<!-- PROJECT 2 -->
 
-<h2 align="center">🪄 &nbsp; what i'm working toward &nbsp; 🪄</h2>
+<table align="center" width="90%">
+<tr>
+
+<td width="62%" valign="top">
+
+<h3>🏥 Clinic Website</h3>
+
+A clinic-focused project I'm developing around appointment management and improving the experience for both patients and clinics.
+
+This is one of those projects where the idea is bigger than the current implementation — and I'm still shaping it.
+
+**Stack**
+
+`Angular` `Spring Boot` `MySQL`
+
+**Focus**
+
+System design · user experience · database design · healthcare workflows
 
 <br>
 
-<table align="center" width="84%">
+<sub>✦ currently growing from an idea into a real project ✦</sub>
+
+</td>
+
+<td width="38%" align="center">
+
+<img
+src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=800&q=85"
+width="95%"
+alt="Healthcare technology"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- PROJECT 3 -->
+
+<table align="center" width="90%">
 <tr>
+
+<td width="38%" align="center">
+
+<img
+src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=85"
+width="95%"
+alt="Data analytics"
+/>
+
+</td>
+
+<td width="62%" valign="top">
+
+<h3>✈️ Flight Delay Prediction</h3>
+
+A machine-learning project exploring how historical flight data can be used for prediction.
+
+The project works with both **classification and regression**, giving me practical experience with data preparation, modeling and evaluation.
+
+**Stack**
+
+`Python` `Pandas` `Scikit-learn`
+
+<br>
+
+<sub>✦ learning how data becomes something useful ✦</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- PROJECT 4 -->
+
+<table align="center" width="90%">
+<tr>
+
+<td width="62%" valign="top">
+
+<h3>🎬 Movie Catalog</h3>
+
+A data-structures project built around organizing and searching movie information.
+
+It gave me the chance to work with structures such as **Hash Tables and AVL Trees** and think about how different approaches affect searching and organization.
+
+**Stack**
+
+`Java` · `Hash Table` · `AVL Tree`
+
+<br>
+
+<sub>✦ algorithms aren't just theory — they shape real applications ✦</sub>
+
+</td>
+
+<td width="38%" align="center">
+
+<img
+src="https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=800&q=85"
+width="95%"
+alt="Cinema"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ========================= IN PROGRESS ============================= -->
+
+<h2 align="center">🪄 &nbsp; currently in my world &nbsp; 🪄</h2>
+
+<br>
+
+<table align="center" width="88%">
+<tr>
+
 <td align="center">
 
-<br>
-
-🌱 **Becoming a stronger software engineer**
-
-<br><br>
-
-I'm currently focusing on improving my understanding of:
-
-`backend development`   ·   `software architecture`   ·   `databases`   ·   `APIs`
-
-<br><br>
-
-while continuing to explore:
-
-`data science`   ·   `machine learning`   ·   `AI`
-
-<br><br>
-
-✨ I don't want to rush into a single label.
-
-<br>
-
-I want to build enough things to discover **what I'm genuinely good at and what I enjoy solving.**
-
-<br><br>
+🌱 **Improving backend development**
 
 </td>
+
+<td align="center">
+
+🏗️ **Learning better software architecture**
+
+</td>
+
+<td align="center">
+
+📊 **Growing my data skills**
+
+</td>
+
+<td align="center">
+
+🤖 **Exploring AI & ML**
+
+</td>
+
 </tr>
 </table>
 
 <br>
 
-<!-- ========================= LEARNING ================================ -->
+<p align="center">
+  <img
+    src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=85"
+    width="82%"
+    alt="Code on screen"
+  />
+</p>
+
+<br>
+
+<!-- =========================== LEARNING ============================== -->
 
 <h2 align="center">📚 &nbsp; currently learning &nbsp; 📚</h2>
 
 <br>
 
 <table align="center" width="86%">
+
 <tr>
 
 <td align="center">
-<h2>🌱</h2>
+
+🌱
+
+<br>
+
 <b>Spring Boot</b>
+
 <br>
+
 <sub>backend development</sub>
+
 </td>
 
 <td align="center">
-<h2>🏗️</h2>
+
+🏗️
+
+<br>
+
 <b>Software Architecture</b>
+
 <br>
+
 <sub>designing better systems</sub>
+
 </td>
 
 <td align="center">
-<h2>📊</h2>
+
+📊
+
+<br>
+
 <b>Data Science</b>
+
 <br>
-<sub>analysis & machine learning</sub>
+
+<sub>analysis & ML</sub>
+
 </td>
 
 <td align="center">
-<h2>🤖</h2>
-<b>AI</b>
+
+🤖
+
 <br>
-<sub>exploring intelligent systems</sub>
+
+<b>Artificial Intelligence</b>
+
+<br>
+
+<sub>intelligent systems</sub>
+
 </td>
 
 </tr>
+
 </table>
 
 <br>
 
 <!-- =========================== FUTURE ================================ -->
 
-<h2 align="center">🌙 &nbsp; ideas i'm excited about &nbsp; 🌙</h2>
+<h2 align="center">🌙 &nbsp; things i'm still figuring out &nbsp; 🌙</h2>
 
 <br>
 
-<table align="center" width="82%">
+<table align="center" width="80%">
 <tr>
 <td align="center">
 
 <br>
 
-There are a few ideas I want to turn into real projects —
+<i>
+I don't have every answer yet.
+</i>
 
 <br><br>
 
-💡 tools that make everyday life more organized <br>
-💡 software that solves problems I personally notice <br>
-💡 projects where engineering meets data <br>
-💡 ideas that start small and grow over time
+I'm still discovering:
 
 <br><br>
 
-<i>Not everything has to be finished today.</i>
+what I want to specialize in <br>
+which problems I want to spend years solving <br>
+which ideas are worth turning into products <br>
+and what kind of engineer I want to become
 
-<br>
+<br><br>
 
-<b>Some projects are still ideas — and that's okay. 🌷</b>
+🌸
+
+<br><br>
+
+<b>And honestly, that's part of the fun.</b>
 
 <br><br>
 
@@ -535,32 +637,61 @@ There are a few ideas I want to turn into real projects —
 
 <br>
 
-<!-- ========================== GITHUB STATS ========================== -->
+<!-- ========================== GITHUB GARDEN ========================== -->
 
-<h2 align="center">☁️ &nbsp; my github garden &nbsp; ☁️</h2>
+<h2 align="center">☁️ &nbsp; github garden &nbsp; ☁️</h2>
 
 <p align="center">
-  <i>a little snapshot of my coding journey ✨</i>
+  <i>little pieces of my coding journey</i>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=amaln2002&show_icons=true&hide_border=true&bg_color=FFF8FB&title_color=DB6F9A&icon_color=E89AB7&text_color=806875&rank_icon=github" width="48%" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=amaln2002&layout=compact&hide_border=true&bg_color=FFF8FB&title_color=DB6F9A&text_color=806875" width="42%" alt="Top Languages" />
+
+<img
+src="https://github-stats-extended.vercel.app/api?username=amaln2002&show_icons=true&hide_border=true&bg_color=FFF9FC&title_color=C85F89&icon_color=E29AB8&text_color=806875&rank_icon=github"
+width="48%"
+alt="GitHub Stats"
+/>
+
+<img
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=amaln2002&layout=compact&hide_border=true&bg_color=FFF9FC&title_color=C85F89&text_color=806875"
+width="42%"
+alt="Top Languages"
+/>
+
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amaln2002&hide_border=true&background=FFF8FB&ring=E89AB7&fire=DB6F9A&currStreakLabel=DB6F9A&sideLabels=806875&dates=B58A9C" width="72%" alt="GitHub Streak" />
+
+<img
+src="https://streak-stats.demolab.com?user=amaln2002&hide_border=true&background=FFF9FC&ring=E29AB8&fire=C85F89&currStreakLabel=C85F89&sideLabels=806875&dates=B58A9C"
+width="70%"
+alt="GitHub Streak"
+/>
+
 </p>
 
 <br>
 
-<!-- ========================== PHILOSOPHY ============================ -->
+<!-- =========================== PHILOSOPHY ============================ -->
 
-<h2 align="center">🌷 &nbsp; a little philosophy &nbsp; 🌷</h2>
+<h2 align="center">🌷 &nbsp; my little philosophy &nbsp; 🌷</h2>
+
+<br>
+
+<p align="center">
+
+<img
+src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=1200&q=85"
+width="82%"
+alt="Creative workspace"
+/>
+
+</p>
 
 <br>
 
@@ -571,19 +702,20 @@ There are a few ideas I want to turn into real projects —
 <br>
 
 <i>
-I don't want my GitHub to only show finished projects.
+I don't want my GitHub to only show<br>
+things I already know.
 </i>
 
 <br><br>
 
 <i>
-I want it to show the journey too —
+I want it to show the journey —
 <br>
-the things I tried,
+the projects that worked,
 <br>
-the problems I solved,
+the ones that didn't,
 <br>
-the ideas I'm still building,
+the ideas still sitting in my notes,
 <br>
 and everything I'm learning along the way.
 </i>
@@ -594,8 +726,8 @@ and everything I'm learning along the way.
 
 <br><br>
 
-<b>Curious enough to start.
-Patient enough to keep learning.</b>
+<b>Curious enough to start.<br>
+Patient enough to keep building.</b>
 
 <br><br>
 
@@ -616,19 +748,21 @@ Patient enough to keep learning.</b>
 <br>
 
 <p align="center">
-  <a href="https://github.com/amaln2002">
-    <img src="https://img.shields.io/badge/GitHub-1F1B20?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+
+<a href="https://github.com/amaln2002">
+<img src="https://img.shields.io/badge/GitHub-17151A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 <br>
 
 <p align="center">
-  🌸 &nbsp; <i>thanks for stopping by my little corner of github</i> &nbsp; 🌸
+🌸 &nbsp; <i>thanks for visiting my little corner of github</i> &nbsp; 🌸
 </p>
 
 <p align="center">
-  <b>keep learning · keep building · keep wondering ♡</b>
+<b>keep learning · keep building · keep wondering ♡</b>
 </p>
 
 <br>
@@ -637,7 +771,7 @@ Patient enough to keep learning.</b>
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:EC8BB3,50:FBC7DC,100:FFE8F1&height=140&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:DC789F,45:EFA9C5,75:F9D6E5,100:FFF4F8&height=150&section=footer"
     width="100%"
     alt="Footer"
   />
