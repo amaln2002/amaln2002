@@ -1,212 +1,182 @@
 <!-- ╭────────────────────────────────────────────────────────────────────╮ -->
 
-<!-- │                                                                    │ -->
-
 <!-- │                         🌷 AMAL NABIH                              │ -->
-
-<!-- │                                                                    │ -->
 
 <!-- ╰────────────────────────────────────────────────────────────────────╯ -->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF8FB,25:FCEAF2,55:F4CDDC,80:E5A1BC,100:D4779C&height=300&section=header&text=Amal%20Nabih&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=computer%20science%20%E2%80%A2%20software%20%E2%80%A2%20data%20%E2%80%A2%20AI&descAlignY=62&descSize=17"
-    width="100%"
-    alt="Amal Nabih"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=19&duration=2800&pause=900&color=C15C84&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Amal+%F0%9F%8C%B7;Computer+Science+student+%40+Birzeit+University;I+like+building+things+I+can+actually+understand;software+%2B+data+%2B+AI+%2B+good+design;turning+ideas+into+systems+%E2%9C%A8"
-    alt="Introduction"
-  />
-</p>
-
-<p align="center">
-  <a href="https://github.com/amaln2002">
-    <img src="https://img.shields.io/badge/GitHub-18161B?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/amaln2002?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-D77FA1?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=amaln2002&style=for-the-badge&color=C98AA5&label=VISITORS"/>
-</p>
-
-<p align="center">
-  <sub>˚₊‧꒰ა 🌸 ໒꒱ ‧₊˚</sub>
-</p>
-
-<br>
-
-<!-- ============================ INTRO ================================ -->
-
-<h2 align="center">୨୧ &nbsp; hello, i'm amal &nbsp; ୨୧</h2>
-
-<table width="100%">
-<tr>
-
-<td width="63%" valign="top">
-
-### 🌷 who am i?
-
-I'm a **Computer Science student at Birzeit University** who likes understanding how technology works from the inside out.
-
-I enjoy taking an idea and slowly turning it into something real:
-
-**idea → design → code → database → logic → interface → result**
-
-My interests sit somewhere between:
-
-`Software Engineering`
-`Full-Stack Development`
-`Data Science`
-`Machine Learning`
-`UI / UX`
-
-I especially enjoy projects where I can combine **technical problem solving with creativity**.
-
-I'm currently growing toward becoming a stronger **software engineer**, while continuing to explore the world of **data and AI**.
-
-</td>
-
-<td width="37%" align="center" valign="middle">
-
-<br>
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rounded&color=FFF0F6&height=175&section=header&text=%F0%9F%8C%B7&fontSize=82&fontColor=D77FA1"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF8FB,25:FCEAF2,55:F4CDDC,80:E5A1BC,100:D4779C&height=300&section=header&text=Amal%20Nabih&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%E2%80%A2%20Software%20Engineering%20%E2%80%A2%20Data%20%E2%80%A2%20AI&descAlignY=62&descSize=17"
 width="100%"
-alt="Flower"
+alt="Amal Nabih"
 />
 
 <br>
 
-### ✦ my little corner of tech ✦
-
-💻 build
-📊 analyze
-🤖 experiment
-🎨 design
-🌱 improve
+<img
+src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=19&duration=2800&pause=900&color=C15C84&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Amal+%F0%9F%8C%B7;Computer+Science+student+%40+Birzeit+University;building+software+%E2%80%A2+working+with+data+%E2%80%A2+exploring+AI;turning+ideas+into+real+projects+%E2%9C%A8;always+curious+about+how+things+work"
+alt="Introduction"
+/>
 
 <br>
 
-<sub>one project at a time ♡</sub>
+<a href="https://github.com/amaln2002">
+<img src="https://img.shields.io/badge/GitHub-18161B?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/amaln2002?tab=repositories">
+<img src="https://img.shields.io/badge/My%20Projects-D77FA1?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+</a>
+&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=amaln2002&style=for-the-badge&color=C98AA5&label=VISITORS" height="30"/>
 
-</td>
+<br><br>
 
-</tr>
-</table>
+<sub>˚₊‧꒰ა 🌸 ໒꒱ ‧₊˚</sub>
 
-<br>
+</div>
 
-<!-- ======================== PERSONAL BRAND =========================== -->
+---
 
-<h2 align="center">✦ &nbsp; the way i think about tech &nbsp; ✦</h2>
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
-<table width="100%">
+<h2>୨୧ &nbsp; hello, i'm amal &nbsp; ୨୧</h2>
+
+<table width="100%" align="center">
 <tr>
 
-<td align="center" width="25%">
+<td width="68%" align="center" valign="middle">
 
-🌱
+<h3>🌷 a little about me</h3>
 
-### Learn
+<p>
+I'm a <b>Computer Science student at Birzeit University</b> who enjoys
+understanding how technology works and turning ideas into things I can actually build.
+</p>
 
-Understand
-the idea first.
+<p>
+My interests live around:
+</p>
 
-</td>
+<p>
+<b>Software Engineering</b> · <b>Full-Stack Development</b> ·
+<b>Data Science</b> · <b>Machine Learning</b> · <b>UI / UX</b>
+</p>
 
-<td align="center" width="25%">
+<p>
+I enjoy moving between different layers of a system:
+</p>
 
-💻
+<p>
+<b>idea → design → code → database → logic → interface</b>
+</p>
 
-### Build
-
-Turn theory
-into something real.
-
-</td>
-
-<td align="center" width="25%">
-
-🔎
-
-### Question
-
-Ask why
-it works.
-
-</td>
-
-<td align="center" width="25%">
-
-✨
-
-### Improve
-
-Make it
-better.
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-  <i>
-    "I don't want to just know how to use a technology.<br>
-    I want to understand what I can build with it."
-  </i>
+<p>
+I'm currently growing toward <b>software engineering</b> while continuing
+to explore <b>data and artificial intelligence</b>.
 </p>
 
 <br>
 
-<!-- ============================ INTERESTS ============================= -->
+<i>“Build it. Understand it. Improve it.”</i>
 
-<h2 align="center">🌸 &nbsp; where my curiosity goes &nbsp; 🌸</h2>
+</td>
 
-<table width="100%">
+<td width="32%" align="center" valign="middle">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rounded&color=FFF0F6&height=180&section=header&text=%F0%9F%8C%B7&fontSize=82&fontColor=D77FA1"
+width="95%"
+alt="Flower"
+/>
+
+<br><br>
+
+<b>currently becoming</b>
+
+<br><br>
+
+🌱 Software Engineer
+
+<br>
+
+💻 Full-Stack Developer
+
+<br>
+
+📊 Data Explorer
+
+<br>
+
+🤖 AI Enthusiast
+
+<br>
+
+🎨 UI/UX Thinker
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- =========================== MY WORLD =============================== -->
+
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
+
+<h2>✦ &nbsp; my world of tech &nbsp; ✦</h2>
+
+<table width="100%" align="center">
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" align="center" valign="middle">
 
-### 💻 SOFTWARE
+<h3>💻 BUILD</h3>
 
-Backend
-APIs
-Databases
-System Design
-Full-Stack Development
+<b>Software Engineering</b>
+
+<br><br>
+
+Backend <br>
+APIs <br>
+Databases <br>
+System Design <br>
 Problem Solving
 
 </td>
 
-<td width="34%" align="center" valign="top">
+<td width="34%" align="center" valign="middle">
 
-### 📊 DATA
+<h3>📊 EXPLORE</h3>
 
-Data Wrangling
-Analysis
-Visualization
-Machine Learning
-Prediction
+<b>Data & AI</b>
+
+<br><br>
+
+Data Analysis <br>
+Visualization <br>
+Machine Learning <br>
+Prediction <br>
 Experimentation
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" align="center" valign="middle">
 
-### 🎨 EXPERIENCE
+<h3>🎨 THINK</h3>
 
-UI / UX
-Usability
-Interfaces
-Human-Centered Design
+<b>People & Products</b>
+
+<br><br>
+
+UI / UX <br>
+Usability <br>
+Clean Interfaces <br>
+HCI <br>
 Product Thinking
 
 </td>
@@ -214,421 +184,589 @@ Product Thinking
 </tr>
 </table>
 
+</div>
+
+<br>
+
 ---
 
-<!-- ============================ TOOLBOX =============================== -->
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
-<h2 align="center">🎀 &nbsp; my toolbox &nbsp; 🎀</h2>
+<h2>🎀 &nbsp; my toolbox &nbsp; 🎀</h2>
 
-<p align="center">
-  <i>technologies i've learned, used, broken, fixed, and built with</i>
+<p>
+<i>technologies i've learned, used, experimented with, and built with</i>
 </p>
 
 <br>
 
-<table width="100%">
+<table width="100%" align="center">
+
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="middle">
 
-### 💻 Languages
+<h3>💻 LANGUAGES</h3>
 
-<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,dart,c&perline=3"/>
+<img
+src="https://skillicons.dev/icons?i=java,python,typescript,javascript,dart,c&perline=3"
+width="230"
+/>
 
 <br><br>
 
-### 🌐 Development
+<h3>🌐 DEVELOPMENT</h3>
 
-<img src="https://skillicons.dev/icons?i=angular,spring,nodejs,flutter,html,css&perline=3"/>
+<img
+src="https://skillicons.dev/icons?i=angular,spring,nodejs,flutter,html,css&perline=3"
+width="230"
+/>
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="middle">
 
-### 🗄️ Databases & Tools
+<h3>🗄️ DATABASES & TOOLS</h3>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,figma,vscode&perline=4"/>
+<img
+src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,figma,vscode&perline=4"
+width="300"
+/>
 
 <br><br>
 
-### 📊 Data & ML
+<h3>📊 DATA & MACHINE LEARNING</h3>
+
+<br>
 
 <img src="https://img.shields.io/badge/Pandas-FFF2F7?style=for-the-badge&logo=pandas&logoColor=C15C84"/>
+&nbsp;
 <img src="https://img.shields.io/badge/NumPy-F9E5EE?style=for-the-badge&logo=numpy&logoColor=C15C84"/>
-<br>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Scikit--Learn-F2DCE7?style=for-the-badge&logo=scikit-learn&logoColor=8C4B68"/>
 
 </td>
 
 </tr>
+
 </table>
 
 <br>
 
-<p align="center">
-  <sub>✦ the stack changes — the curiosity doesn't ✦</sub>
-</p>
+<sub>✦ the stack changes — the curiosity doesn't ✦</sub>
+
+</div>
 
 ---
 
-<!-- =========================== FEATURED WORK ========================== -->
+<!-- =========================== SELECTED WORK ========================= -->
 
-<h2 align="center">🌷 &nbsp; selected work &nbsp; 🌷</h2>
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
-<p align="center">
-  <i>Projects that represent the different sides of what I enjoy building.</i>
+<h2>🌷 &nbsp; selected work &nbsp; 🌷</h2>
+
+<p>
+<i>Projects that represent the different sides of what I love building.</i>
 </p>
 
 <br>
 
-<!-- PROJECT 01 -->
+<!-- ========================== PROJECT 1 =============================== -->
 
-<table width="100%">
+<table width="100%" align="center">
+
 <tr>
 
-<td width="70%" valign="top">
+<td width="72%" align="center" valign="middle">
 
-### 🏋🏻‍♀️ Ladies GYM Management System
+<h3>🏋🏻‍♀️ Ladies GYM Management System</h3>
 
-A desktop management system designed for a women's gym, combining application logic, database design, and a complete user interface.
+<p>
+A complete desktop management system designed for a women's gym,
+combining application logic, database design, and a full graphical interface.
+</p>
 
-**Built with**
+<p>
+<b>Built with</b>
+</p>
 
-`Java` · `JavaFX` · `MySQL`
+<p>
+<code>Java</code> · <code>JavaFX</code> · <code>MySQL</code>
+</p>
 
-**Inside the project**
+<p>
+<b>Members</b> · <b>Trainers</b> · <b>Classes</b> ·
+<b>Services</b> · <b>Events</b> · <b>Offers</b> · <b>Payments</b>
+</p>
 
-Members · trainers · classes · services · events · offers · memberships · payments
-
-**What it taught me**
-
-Database relationships · CRUD operations · UI design · application architecture · connecting the interface to persistent data
+<sub>
+database relationships · CRUD · UI design · application architecture
+</sub>
 
 </td>
 
-<td width="30%" align="center" valign="middle">
+<td width="28%" align="center" valign="middle">
 
-### SYSTEM
-
-🏋🏻‍♀️
-🗄️
-🖥️
-✨
+<h3>SYSTEM</h3>
 
 <br>
 
-<img src="https://img.shields.io/badge/JAVA-JAVAFX-F7E4EC?style=for-the-badge&logo=java&logoColor=C15C84"/>
+🏋🏻‍♀️
+
+<br><br>
+
+🗄️
+
+<br><br>
+
+🖥️
+
+<br><br>
+
+✨
+
+<br><br>
+
+<img src="https://img.shields.io/badge/JAVA%20%2B%20JAVAFX-F7E4EC?style=for-the-badge&logo=java&logoColor=C15C84"/>
 
 </td>
 
 </tr>
+
 </table>
 
-<br>
+<br><br>
 
-<!-- PROJECT 02 -->
+<!-- ========================== PROJECT 2 =============================== -->
 
-<table width="100%">
+<table width="100%" align="center">
+
 <tr>
 
-<td width="30%" align="center" valign="middle">
+<td width="28%" align="center" valign="middle">
 
-### DATA STRUCTURES
-
-✈️
-🌳
-🔎
-💻
+<h3>✈️ SYSTEM</h3>
 
 <br>
+
+✈️
+
+<br><br>
+
+🌳
+
+<br><br>
+
+🔎
+
+<br><br>
+
+💻
+
+<br><br>
 
 <img src="https://img.shields.io/badge/JAVA-F7E4EC?style=for-the-badge&logo=java&logoColor=C15C84"/>
 
 </td>
 
-<td width="70%" valign="top">
+<td width="72%" align="center" valign="middle">
 
-### ✈️ Flights Management System
+<h3>✈️ Flights Management System</h3>
 
-A Java and JavaFX project focused on managing flight information while applying data-structure concepts to a practical application.
+<p>
+A Java and JavaFX application focused on managing flight information
+while applying data-structure concepts to a practical system.
+</p>
 
-**Built with**
+<p>
+<b>Built with</b>
+</p>
 
-`Java` · `JavaFX` · `Data Structures`
+<p>
+<code>Java</code> · <code>JavaFX</code> · <code>Data Structures</code>
+</p>
 
-**Focus**
+<p>
+<b>Data organization</b> · <b>Searching</b> ·
+<b>Operations</b> · <b>GUI development</b>
+</p>
 
-Data organization · searching · operations on structures · GUI development · algorithmic thinking
+<sub>
+turning algorithmic concepts into something interactive
+</sub>
 
 </td>
 
 </tr>
+
 </table>
 
-<br>
+<br><br>
 
-<!-- PROJECT 03 -->
+<!-- ========================== PROJECT 3 =============================== -->
 
-<table width="100%">
+<table width="100%" align="center">
+
 <tr>
 
-<td width="70%" valign="top">
+<td width="72%" align="center" valign="middle">
 
-### 📊 Data Wrangling Project
+<h3>📊 Data Wrangling Project</h3>
 
-A complete data-wrangling project focused on gathering, assessing, cleaning, analyzing, and visualizing data.
+<p>
+A data-wrangling project focused on transforming raw data
+into clean, understandable, and useful information.
+</p>
 
-**Built with**
+<p>
+<b>Built with</b>
+</p>
 
-`Python` · `Pandas` · `Data Analysis` · `Visualization`
+<p>
+<code>Python</code> · <code>Pandas</code> · <code>Data Analysis</code>
+</p>
 
-**The process**
+<p>
+📥 Collect → 🧹 Assess → ✨ Clean → 📊 Analyze → 📈 Visualize
+</p>
 
-Collect → Assess → Clean → Analyze → Visualize
-
-**What I focused on**
-
-Data quality · cleaning decisions · analysis questions · visual storytelling · explaining the reasoning behind each step
+<sub>
+data quality · cleaning · analysis · visualization · storytelling
+</sub>
 
 </td>
 
-<td width="30%" align="center" valign="middle">
+<td width="28%" align="center" valign="middle">
 
-### DATA
-
-📥
-🧹
-📊
-✨
+<h3>DATA</h3>
 
 <br>
+
+📥
+
+<br><br>
+
+🧹
+
+<br><br>
+
+📊
+
+<br><br>
+
+📈
+
+<br><br>
 
 <img src="https://img.shields.io/badge/PYTHON-F7E4EC?style=for-the-badge&logo=python&logoColor=C15C84"/>
 
 </td>
 
 </tr>
+
 </table>
 
-<br>
+<br><br>
 
-<!-- PROJECT 04 -->
+<!-- ========================== PROJECT 4 =============================== -->
 
-<table width="100%">
+<table width="100%" align="center">
+
 <tr>
 
-<td width="30%" align="center" valign="middle">
+<td width="28%" align="center" valign="middle">
 
-### MACHINE LEARNING
+<h3>🤖 MACHINE LEARNING</h3>
+
+<br>
 
 🤖
-📈
+
+<br><br>
+
 🧠
+
+<br><br>
+
+📈
+
+<br><br>
+
 🔬
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/ML-F7E4EC?style=for-the-badge&logo=scikit-learn&logoColor=C15C84"/>
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7E4EC?style=for-the-badge&logo=scikit-learn&logoColor=C15C84"/>
 
 </td>
 
-<td width="70%" valign="top">
+<td width="72%" align="center" valign="middle">
 
-### 🤖 ML Prediction Model
+<h3>🤖 ML Prediction Model</h3>
 
-A machine-learning project focused on building and evaluating prediction models from data.
+<p>
+A machine-learning project exploring how data can be used
+to build and evaluate prediction models.
+</p>
 
-**Built with**
+<p>
+<b>Built with</b>
+</p>
 
-`Python` · `Pandas` · `Scikit-learn`
+<p>
+<code>Python</code> · <code>Pandas</code> · <code>Scikit-learn</code>
+</p>
 
-**Explored**
-
-Data preparation · feature selection · model training · prediction · evaluation
+<p>
+<b>Data Preparation</b> · <b>Feature Analysis</b> ·
+<b>Model Training</b> · <b>Prediction</b> · <b>Evaluation</b>
+</p>
 
 </td>
 
 </tr>
+
 </table>
 
-<br>
+<br><br>
 
-<!-- PROJECT 05 -->
+<!-- ========================== PROJECT 5 =============================== -->
 
-<table width="100%">
+<table width="100%" align="center">
+
 <tr>
 
-<td width="70%" valign="top">
+<td width="72%" align="center" valign="middle">
 
-### 🔎 Investigating a Dataset
+<h3>🔎 Investigating a Dataset</h3>
 
-My first data-analysis project — an early step into exploring datasets, asking questions, finding patterns, and communicating insights through analysis.
+<p>
+An early data-analysis project where I explored a dataset,
+asked questions, discovered patterns, and communicated insights.
+</p>
 
-**Focus**
+<p>
+<b>Focus</b>
+</p>
 
-Exploration · statistics · questions · insights · visualization
+<p>
+<code>Python</code> · <code>Data Analysis</code> · <code>Visualization</code>
+</p>
 
-**Why it matters**
+<p>
+🔎 Explore · 📊 Analyze · 💭 Question · ✨ Discover
+</p>
 
-This project represents where my interest in **data analysis** started.
+<sub>
+one of the projects that started my interest in working with data
+</sub>
 
 </td>
 
-<td width="30%" align="center" valign="middle">
+<td width="28%" align="center" valign="middle">
 
-### FIRST STEP
+<h3>FIRST STEP</h3>
+
+<br>
 
 🔎
+
+<br><br>
+
 📊
+
+<br><br>
+
 💭
+
+<br><br>
+
 🌱
-
-<br>
-
-<img src="https://img.shields.io/badge/DATA-F7E4EC?style=for-the-badge&logo=python&logoColor=C15C84"/>
 
 </td>
 
 </tr>
+
 </table>
 
-<br>
+<br><br>
 
-<!-- PROJECT 06 -->
+<!-- ========================== PROJECT 6 =============================== -->
 
-<table width="100%">
+<table width="100%" align="center">
+
 <tr>
 
-<td width="30%" align="center" valign="middle">
+<td width="28%" align="center" valign="middle">
 
-### CURRENT PROJECT
-
-🏥
-🧩
-🎨
-💻
+<h3>🏥 CURRENT</h3>
 
 <br>
+
+🏥
+
+<br><br>
+
+🧩
+
+<br><br>
+
+🎨
+
+<br><br>
+
+💻
+
+<br><br>
 
 <img src="https://img.shields.io/badge/FULL--STACK-F7E4EC?style=for-the-badge&logo=angular&logoColor=C15C84"/>
 
 </td>
 
-<td width="70%" valign="top">
+<td width="72%" align="center" valign="middle">
 
-### 🏥 Clinic Management Platform
+<h3>🏥 Clinic Management Platform</h3>
 
-A larger software-engineering project focused on creating a better digital experience for clinics and patients.
+<p>
+A larger software-engineering project focused on creating
+a better digital experience for clinics and patients.
+</p>
 
-**Exploring**
+<p>
+<b>Exploring</b>
+</p>
 
-`Angular` · `Spring Boot` · `MySQL`
+<p>
+<code>Angular</code> · <code>Spring Boot</code> · <code>MySQL</code>
+</p>
 
-**Current focus**
+<p>
+<b>System Design</b> · <b>APIs</b> · <b>Database Architecture</b> ·
+<b>HCI</b> · <b>Usability</b>
+</p>
 
-System design · database architecture · APIs · appointment workflows · usability · HCI
-
-> 🌷 This is one of the projects I'm using to move from *learning technologies* to *designing complete systems*.
+<sub>
+moving from learning individual technologies toward designing complete systems
+</sub>
 
 </td>
 
 </tr>
+
 </table>
 
----
-
-<!-- ========================= PROJECT MAP ============================== -->
-
-<h2 align="center">🗺️ &nbsp; my project map &nbsp; 🗺️</h2>
-
-<p align="center">
-  <i>Different projects, different skills — one growing direction.</i>
-</p>
+</div>
 
 <br>
 
+---
+
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
+
+<h2>🗺️ &nbsp; my project universe &nbsp; 🗺️</h2>
+
 <table width="100%">
+
 <tr>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-🏗️
+<h3>🏗️</h3>
 
-### Systems
+<b>SYSTEMS</b>
 
-Java
-JavaFX
-Databases
+<br><br>
+
+Java <br>
+JavaFX <br>
+Databases <br>
 Architecture
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-📊
+<h3>📊</h3>
 
-### Data
+<b>DATA</b>
 
-Python
-Pandas
-Wrangling
+<br><br>
+
+Python <br>
+Pandas <br>
+Wrangling <br>
 Visualization
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-🤖
+<h3>🤖</h3>
 
-### Intelligence
+<b>INTELLIGENCE</b>
 
-ML
-Prediction
-Analysis
+<br><br>
+
+ML <br>
+Prediction <br>
+Analysis <br>
 Experimentation
 
 </td>
 
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-🎨
+<h3>🎨</h3>
 
-### Experience
+<b>EXPERIENCE</b>
 
-UI / UX
-Usability
-Interfaces
-HCI
+<br><br>
+
+UI / UX <br>
+HCI <br>
+Usability <br>
+Product Thinking
 
 </td>
 
 </tr>
+
 </table>
 
 <br>
 
-<p align="center">
-
-**Systems** ───── **Data** ───── **AI**
-          ↘
-         **Software Engineering**
-
+<p>
+<b>Systems</b> &nbsp; ✦ &nbsp;
+<b>Data</b> &nbsp; ✦ &nbsp;
+<b>AI</b> &nbsp; ✦ &nbsp;
+<b>Design</b>
 </p>
+
+</div>
 
 ---
 
 <!-- =========================== CURRENTLY ============================== -->
 
-<h2 align="center">🪄 &nbsp; currently in my learning era &nbsp; 🪄</h2>
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
+
+<h2>🪄 &nbsp; currently learning &nbsp; 🪄</h2>
 
 <table width="100%">
+
 <tr>
 
 <td width="25%" align="center">
 
 🌱
 
-**Spring Boot**
+<br><br>
+
+<b>Spring Boot</b>
+
+<br>
 
 <sub>backend & APIs</sub>
 
@@ -638,7 +776,11 @@ HCI
 
 🏗️
 
-**Software Architecture**
+<br><br>
+
+<b>Software Architecture</b>
+
+<br>
 
 <sub>better systems</sub>
 
@@ -648,7 +790,11 @@ HCI
 
 📊
 
-**Data Science**
+<br><br>
+
+<b>Data Science</b>
+
+<br>
 
 <sub>analysis & ML</sub>
 
@@ -658,186 +804,228 @@ HCI
 
 🤖
 
-**AI**
+<br><br>
+
+<b>Artificial Intelligence</b>
+
+<br>
 
 <sub>intelligent systems</sub>
 
 </td>
 
 </tr>
+
 </table>
 
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LEARNING-FFF1F6?style=for-the-badge&labelColor=FFF1F6&color=D77FA1"/>
-  <img src="https://img.shields.io/badge/BUILDING-F8E8EF?style=for-the-badge&labelColor=F8E8EF&color=C991AC"/>
-  <img src="https://img.shields.io/badge/EXPERIMENTING-F4EFF7?style=for-the-badge&labelColor=F4EFF7&color=A78EB8"/>
-</p>
+<img src="https://img.shields.io/badge/LEARNING-FFF1F6?style=for-the-badge&labelColor=FFF1F6&color=D77FA1"/>
+&nbsp;
+<img src="https://img.shields.io/badge/BUILDING-F8E8EF?style=for-the-badge&labelColor=F8E8EF&color=C991AC"/>
+&nbsp;
+<img src="https://img.shields.io/badge/EXPLORING-F4EFF7?style=for-the-badge&labelColor=F4EFF7&color=A78EB8"/>
+
+</div>
+
+<br>
 
 ---
 
-<!-- ============================ DIRECTION ============================== -->
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
-<h2 align="center">🌙 &nbsp; the direction i'm growing in &nbsp; 🌙</h2>
+<h2>🌙 &nbsp; where all of this is going &nbsp; 🌙</h2>
 
 <table width="100%">
+
 <tr>
 
-<td align="center" style="padding: 25px;">
+<td align="center" style="padding: 30px;">
 
-### software × data × intelligence
-
-I'm interested in the space where these areas meet.
+<h3>software × data × intelligence</h3>
 
 <br>
 
-**Software Engineering**
-
-↓
-
-**Data & Information**
-
-↓
-
-**Machine Learning & AI**
-
-↓
-
-**Useful Products**
+<p>
+I'm interested in the space where <b>software engineering,
+data, artificial intelligence, and good design</b> meet.
+</p>
 
 <br>
 
-I want to become the kind of engineer who can understand a problem from the **system level**, work with the **data behind it**, and think about the **people using it**.
+<table width="90%">
+
+<tr>
+<td align="center"><b>Problem</b></td>
+<td align="center">→</td>
+<td align="center"><b>System</b></td>
+<td align="center">→</td>
+<td align="center"><b>Data</b></td>
+<td align="center">→</td>
+<td align="center"><b>Intelligence</b></td>
+<td align="center">→</td>
+<td align="center"><b>Product</b></td>
+</tr>
+
+</table>
+
+<br>
+
+<p>
+I want to become an engineer who can understand a problem
+from the <b>system level</b>, work with the <b>data behind it</b>,
+and still care about the <b>people using it</b>.
+</p>
 
 <br>
 
 🌸
 
-### technically strong + creatively curious
+<h3>technically strong + creatively curious</h3>
 
 </td>
 
 </tr>
+
 </table>
+
+</div>
 
 ---
 
-<!-- =========================== LITTLE DETAILS ========================= -->
+<!-- ========================== LEARNING STYLE ========================== -->
 
-<h2 align="center">🌷 &nbsp; little things about me &nbsp; 🌷</h2>
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-### 💭 I enjoy
-
-* Solving programming problems
-* Designing interfaces
-* Understanding how systems connect
-* Working with data
-* Exploring new technologies
-* Turning ideas into projects
-
-</td>
-
-<td width="50%" valign="top">
-
-### ✨ My favorite part
-
-The moment when something finally works after I spent way too long asking:
-
-> **“why is this not working?”** 😭
-
-And then realizing the answer was one tiny line of code.
-
-</td>
-
-</tr>
-</table>
+<h2>🌸 &nbsp; my learning loop &nbsp; 🌸</h2>
 
 <br>
 
-<p align="center">
-
-`curious` · `creative` · `persistent` · `always learning`
-
-</p>
-
----
-
-<!-- ============================ PHILOSOPHY ============================= -->
-
-<h2 align="center">🌸 &nbsp; one thing i believe &nbsp; 🌸</h2>
-
 <table width="100%">
+
 <tr>
 
-<td align="center" style="padding: 25px;">
+<td align="center" width="20%">
 
-<i>
-
-I don't want my GitHub to be a collection of technologies.
-
-<br>
-
-I want it to be a collection of **things I tried to understand, build, improve, and learn from.**
-
-</i>
+🌱
 
 <br><br>
 
-🌷
+<b>LEARN</b>
 
-<b>Every project is a little piece of the engineer I'm becoming.</b>
+<br>
+
+<sub>understand the idea</sub>
+
+</td>
+
+<td align="center" width="5%">→</td>
+
+<td align="center" width="20%">
+
+💻
+
+<br><br>
+
+<b>BUILD</b>
+
+<br>
+
+<sub>make it real</sub>
+
+</td>
+
+<td align="center" width="5%">→</td>
+
+<td align="center" width="20%">
+
+🔎
+
+<br><br>
+
+<b>BREAK</b>
+
+<br>
+
+<sub>find what went wrong</sub>
+
+</td>
+
+<td align="center" width="5%">→</td>
+
+<td align="center" width="20%">
+
+✨
+
+<br><br>
+
+<b>IMPROVE</b>
+
+<br>
+
+<sub>make it better</sub>
 
 </td>
 
 </tr>
+
 </table>
+
+<br>
+
+<i>
+I learn best when I can stop reading about something<br>
+and start building with it.
+</i>
+
+</div>
 
 ---
 
-<!-- ============================= CONNECT ============================== -->
+<!-- ============================== CONNECT ============================ -->
 
-<h2 align="center">💌 &nbsp; let's connect &nbsp; 💌</h2>
+<div align="center" style="font-family: 'Times New Roman', Times, serif;">
 
-<p align="center">
-  <i>Interested in software, data, AI, or building something interesting?</i>
+<h2>💌 &nbsp; let's connect &nbsp; 💌</h2>
+
+<p>
+<i>Interested in software, data, AI, or building something interesting?</i>
 </p>
 
-<p align="center">
+<br>
 
 <a href="https://github.com/amaln2002">
-<img src="https://img.shields.io/badge/GitHub-18161B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-18161B?style=for-the-badge&logo=github&logoColor=white" height="34"/>
 </a>
+
+  
 
 <a href="https://github.com/amaln2002?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Work-D77FA1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore%20My%20Work-D77FA1?style=for-the-badge&logo=github&logoColor=white" height="34"/>
 </a>
 
-</p>
+<br><br><br>
 
-<br>
+🌸   <i>thanks for visiting my little corner of github</i>   🌸
 
-<p align="center">
-  🌸 <i>thanks for visiting my little corner of the internet</i> 🌸
-</p>
+<br><br>
 
-<p align="center">
-  <sub>build something beautiful · understand something deeply · keep going ♡</sub>
-</p>
+<sub>
+build something beautiful · understand something deeply · keep going ♡
+</sub>
 
-<br>
+</div>
+
+<br><br>
 
 <!-- ============================== FOOTER ============================== -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:D4779C,35:E5A1BC,70:F4CDDC,100:FFF8FB&height=165&section=footer"
-    width="100%"
-    alt="Footer"
-  />
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:D4779C,35:E5A1BC,70:F4CDDC,100:FFF8FB&height=165&section=footer"
+width="100%"
+alt="Footer"
+/>
+
 </p>
