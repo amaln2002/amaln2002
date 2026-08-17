@@ -52,7 +52,7 @@
 
 ### 🌷 A little about me
 
-I'm a **Computer Science student at Birzeit University** who genuinely enjoys understanding how software works — not just using technologies, but figuring out how all the pieces connect.
+I'm a **Computer Science student at Birzeit University** who genuinely enjoys understanding how software works not just using technologies, but figuring out how all the pieces connect.
 
 I'm especially drawn to:
 
