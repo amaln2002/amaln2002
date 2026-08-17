@@ -1,6 +1,6 @@
 <!-- ╭──────────────────────────────────────────────────────────────╮ -->
 
-<!-- │                     🌷 AMAL Alwahidi                           │ -->
+<!-- │                     🌷 AMAL ALWAHIDI                          │ -->
 
 <!-- │                GitHub Profile README                         │ -->
 
@@ -10,9 +10,9 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF6FA,35:F8DCE8,70:E9AFC5,100:D77FA1&height=285&section=header&text=Amal%20Nabih&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%20%E2%80%A2%20%20Software%20Engineering%20%20%E2%80%A2%20%20Data%20%20%E2%80%A2%20%20AI&descAlignY=62&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF6FA,35:F8DCE8,70:E9AFC5,100:D77FA1&height=285&section=header&text=Amal%20Alwahidi&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%20%E2%80%A2%20%20Software%20Engineering%20%20%E2%80%A2%20%20Data%20%20%E2%80%A2%20%20AI&descAlignY=62&descSize=16"
     width="100%"
-    alt="Amal Nabih"
+    alt="Amal ALWAHIDI"
   />
 </p>
 
